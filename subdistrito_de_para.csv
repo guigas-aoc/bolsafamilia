@@ -1,0 +1,627 @@
+codigo_ibge,nome_municipio
+205,Zona 02
+205,Zona 03
+205,Zona 04
+205,Zona 05
+2603,Primeira R.A.
+2603,Segunda R.A.
+2603,Terceira R.A.
+2603,Quarta R.A.
+2603,Quinta R.A.
+2603,Sexta R.A.
+2603,Sétima R.A.
+2603,Oitava R.A.
+2603,Nona R.A.
+11001,Centro
+11001,Leste
+11001,Norte
+11001,Sudeste
+11001,Sul
+4400,Região administrativa I
+4400,Região administrativa II
+4400,Região administrativa III
+4400,Região administrativa IV
+4400,Região administrativa V
+4400,Região administrativa VI
+4400,Região administrativa VII
+4400,Região administrativa VIII
+4400,Região administrativa IX
+4400,Região administrativa X
+4400,Região administrativa XI
+4400,Região administrativa XII
+8102,R.A. Norte
+8102,R.A. Sul
+8102,R.A. Leste
+8102,R.A. Oeste
+3454,RPA I
+3454,RPA II
+3454,RPA III
+3454,RPA IV
+3454,RPA V
+11101,RA Centro
+11101,RA Oeste
+11101,RA Norte
+11101,RA Leste
+11606,RPA 01
+11606,RPA 02
+11606,RPA 03
+11606,RPA 04
+11606,RPA 05
+11606,RPA 06
+4302,Primeira Região
+4302,Segunda Região
+4302,Terceira Região
+4302,Quarta Região
+4302,Quinta Região
+4302,Sexta Região
+4302,Sétima Região
+4302,Oitava Região
+10800,Mangabeira
+10800,Pampalona
+10800,Santana
+10800,Santo Antônio
+10800,Subae
+27408,Amaralina
+27408,Brotas
+27408,Conceição da Praia
+27408,Itapoã
+27408,Maré
+27408,Mares
+27408,Nazaré
+27408,Paripe
+27408,Passo
+27408,Penha
+27408,Periperi
+27408,Pilar
+27408,Pirajá
+27408,Plataforma
+27408,Santana
+27408,Santo Antônio
+27408,São Caetano
+27408,São Cristovão
+27408,São Pedro
+27408,Sé
+27408,Valéria
+27408,Vitória
+5707,Primeiro Subdistrito
+5707,Segundo Subdistrito
+6200,Centro-Sul
+6200,Leste
+6200,Nordeste
+6200,Noroeste
+6200,Norte
+6200,Oeste
+6200,Pampulha
+6200,Venda Nova
+6200,Barreiro
+6705,Sede
+6705,Norte
+6705,Alterosas
+6705,PTB
+6705,Imbiruçu
+6705,Teresópolis
+6705,Citrolândia
+6705,Vianópolis
+6705,Icaivera
+6705,Petrovale
+18601,Riacho
+18601,Eldorado
+18601,Cinco
+18601,Perobas
+18601,Colorado
+18601,Laguna
+18601,São Joaquim
+18601,Confisco
+18601,Ceasa
+18601,Boa Vista
+18601,Tapera
+18601,Estrela D'alva
+18601,Nacional
+18601,Bom Jesus
+18601,Sede
+18601,VM5
+18601,Bernardo Monteiro
+18601,Petrolândia
+18601,Nova Contagem
+18601,Vargem das Flores
+18601,Cidade Industrial
+18601,Jardim Industrial
+18601,Industrial
+18601,Inconfidentes
+18601,Amazonas
+18601,Bandeirantes
+18601,Jardim Riacho
+18601,Água Branca
+18908,Região Administrativa 1
+18908,Região Administrativa 2
+18908,Região Administrativa 3
+18908,Região Administrativa 4
+18908,Região Administrativa 5
+18908,Região Administrativa 6
+18908,Região Administrativa 7
+18908,Região Administrativa 8
+32404,1 Subdistrito
+32404,Piedade
+36702,Unidade Territorial I
+36702,Unidade Territorial II
+36702,Unidade Territorial III
+36702,Unidade Territorial IV
+36702,Unidade Territorial V
+36702,Unidade Territorial VI
+36702,Unidade Territorial VII
+36702,Unidade Territorial VIII
+36702,Unidade Territorial IX
+36702,Unidade Territorial X
+36702,Unidade Territorial XI
+36702,Unidade Territorial XII
+36702,Unidade Territorial XIII
+36702,Unidade Territorial XIV
+36702,Unidade Territorial XV
+36702,Unidade Territorial XVI
+52105,1 Subdistrito
+52105,2 Sub-Distrito
+67202,I Região Administrativa
+67202,II Região Administrativa
+67202,III Região Administrativa
+67202,IV Região Administrativa
+67202,V Região Administrativa
+67202,VI Região Administrativa
+67202,VII Região Administrativa
+67202,VIII Região Administrativa
+67202,IX Região Administrativa
+67202,X Região Administrativa
+67202,XI Região Administrativa
+67202,XII Região Administrativa
+67202,XIII Região Administrativa
+67202,XIV Região Administrativa
+67202,XV Região Administrativa
+67202,XVI Região Administrativa
+67202,XVII Região Administrativa
+5200,Centro
+5200,Grande Aribiri
+5200,Grande Ibes
+5200,Grande Cobilândia
+5200,Grande Jucu
+5309,Região Administrativa I - Centro
+5309,Região Administrativa II - Santo Antônio
+5309,Região Administrativa III - Jucutuquara
+5309,Região Administrativa IV - Maruípe
+5309,Região Administrativa V - Praia do Canto
+5309,Região Administrativa VII - São Pedro
+5309,Região Administrativa VI - Goiabeiras
+5309,Região Administrativa VIII - Jardim Camburi
+5309,Região Administrativa IX - Jardim da Penha
+407,Região Administrativa 01 - Centro
+407,Região Administrativa 02 - Vista Alegre
+407,Região Administrativa 03 - Vila Nova
+407,Região Administrativa 04 - Ano Bom
+407,Região Administrativa 05 - Vila Elmira
+407,Região Administrativa 06 - Nove de Abril
+407,Região Administrativa 07 - Boa Vista
+407,Região Administrativa 08 - Boa Sorte
+407,Região Administrativa 09 - Rozelândia
+407,Região Administrativa 10 - Santa Clara
+407,Região Administrativa 11 - Vila Independência
+407,Região Administrativa 12 - Siderlândia
+407,Região Administrativa 13 - Colônia Santo Antônio
+407,Região Administrativa 14 - Saudade
+407,Região Administrativa 50 - Antônio Rocha
+407,Região Administrativa 20 - Floriano
+407,Região Administrativa 40 - Nossa Senhora do Amparo
+407,Região Administrativa 30 - Rialto
+407,Região Administrativa 60 - Santa Rita de Cássia
+456,Areia Branca
+456,Nova Aurora
+456,Jardim Redentor
+456,Parque São José
+456,Lote XV
+1009,Primeiro Subdistrito
+1009,Segundo Subdistrito
+1009,Terceiro Subdistrito
+1009,Quarto Subdistrito
+936,Primeira Região Administrativa (Centro)
+936,Segunda Região Administrativa (Ubás)
+936,Terceira Região Administrativa (Rodagem)
+936,Quarta Região Administrativa (Praia de Carapebus)
+1876,Sub-região da Orla
+1876,Sub-região do Arrastão das Pedras
+1876,Sub-região de Sapeatiba
+1876,Sub-região Área da Lagoa
+2270,Japeri
+2270,Engenheiro Pedreira
+2270,Marajoara
+2270,Rio D'Ouro
+2270,Pedra Lisa
+2403,Barra de Macaé
+2403,Aeroporto
+2403,Cabiúnas
+2403,Imboassica
+2403,Centro
+2403,Nova Cidade
+3500,Unidade Regional de Governo Centro - URG I
+3500,Unidade Regional de Governo da Posse - URG II
+3500,Unidade Regional de Governo de Comendador Soares - URG III
+3500,Unidade Regional de Governo de Cabuçu - URG VII
+3500,Unidade Regional de Governo de Km 32 - URG VIII
+3500,Unidade Regional de Governo de Austim - URG IX
+3500,Unidade Regional de Governo de Vila de Cava - URG X
+3500,Unidade Regional de Governo de Miguel Couto - URG XI
+3500,"U.R.G. de Tinguá,Adrianópolis,Rio D'Ouro e Jaceruba-URG XII"
+4144,Centro
+4144,Nordeste
+4144,Leste
+4144,Sul
+4144,Oeste
+4144,Norte
+4144,Industrial
+4557,Portuária
+4557,Centro
+4557,Rio Comprido
+4557,Botafogo
+4557,Copacabana
+4557,Lagoa
+4557,São Cristovão
+4557,Tijuca
+4557,Vila Isabel
+4557,Ramos
+4557,Penha
+4557,Méier
+4557,Irajá
+4557,Madureira
+4557,Jacarepaguá
+4557,Bangu
+4557,Campo Grande
+4557,Santa Cruz
+4557,Ilha do Governador
+4557,Ilha de Paquetá
+4557,Anchieta
+4557,Santa Teresa
+4557,Barra da Tijuca
+4557,Pavuna
+4557,Guaratiba
+4557,Inhaúma
+4557,Rocinha
+4557,Jacarezinho
+4557,Complexo do Alemão
+4557,Maré
+4557,Realengo
+4557,Cidade de Deus
+4557,Vigário Geral
+5208,Região Sul
+5208,Região Norte
+5208,Região Oeste
+5208,Região Leste
+4303,Zona 1
+4303,Zona 2
+4303,Zona 3
+4303,Zona 4
+4303,Zona 5
+6902,Administração Regional da Matriz
+6902,Administração Regional do Boqueirão
+6902,Administração Regional do Cajuru
+6902,Administração Regional da Boa Vista
+6902,Administração Regional de Santa Felicidade
+6902,Administração Regional do Portão
+6902,Administração Regional Pinheirinho
+6902,Administração Regional do Bairro Novo
+6902,Administração Regional da Cidade Industrial de Curitiba
+6902,Administração Regional do Tatuquara
+13700,Centro
+13700,Região Norte
+13700,Região Oeste
+13700,Região Leste
+13700,Região Sul
+15200,Zona 1
+15200,Zona 2
+15200,Zona 3
+15200,Zona 4
+15200,Zona 5
+15200,Zona 6
+15200,Zona 7
+15200,Zona 8
+15200,Zona 9
+15200,Zona 10
+15200,Zona 11
+15200,Zona 12
+15200,Zona 13
+15200,Zona 14
+15200,Zona 15
+15200,Zona 17
+15200,Zona 18
+15200,Zona 19
+15200,Zona 20
+15200,Zona 21
+15200,Zona 22
+15200,Zona 23
+15200,Zona 24
+15200,Zona 25
+15200,Zona 26
+15200,Zona 27
+15200,Zona 28
+15200,Zona 29
+15200,Zona 30
+15200,Zona 31
+15200,Zona 35
+15200,Zona 36
+15200,Zona 37
+15200,Zona 38
+15200,Zona 39
+15200,Zona 40
+15200,Zona 41
+15200,Zona 42
+15200,Zona 43
+15200,Zona 44
+15200,Zona 45
+15200,Zona 46
+15200,Zona 47
+15200,Zona 48
+15200,Zona Central
+15200,Zona 34
+15200,Zona 33
+406,Zona Central
+406,Zona da Coxilha ou Cidade Alta
+406,Zona Norte
+406,Zona Sul
+406,Zona Leste
+406,Zona Oeste
+406,Alegrete
+406,Catimbaú
+406,Durasnal
+406,Guassu-Boi
+406,Inhanduí
+406,Itaporó
+406,Rincão de São Miguel
+406,Vasco Alves
+604,MZ1- Centro
+604,MZ2- Americana / Sumaré
+604,MZ3- Bela Vista
+604,MZ4- Intersul
+604,MZ5- Algarve
+604,MZ6- Aparecida
+604,MZ7- Cocão
+604,MZ8- Piratini
+604,MZ9- Formosa / Maria Regina
+604,MZ10- Umbu
+604,MZ 11 - Industrial
+5108,RA 01 - Centro
+5108,RA 02 - Santa Lúcia
+5108,RA 03 - Fátima
+5108,RA 04 - Cruzeiro
+5108,RA 05 - Esplanada
+5108,RA 06 - Rizzo
+5108,RA 07 - Forqueta
+5108,RA 08 - Ana Rech
+5108,RA 09 - Galópolis
+5108,RA 10 - Serrano
+5108,RA 11 - Planalto
+5108,RA 12 - Presidente Vargas
+5108,RA 13 - São Giácomo
+5108,RA 14 - Nossa Senhora da Saúde
+5108,RA 15 - Santa Fé
+5439,Área de Planejamento 01
+6601,Sede
+6601,Caveiras
+6601,Vacaiquá
+6601,Ponche Verde
+6601,Fontouras
+7708,Leste
+7708,Norte
+7708,Oeste
+7708,Sul
+14100,"Região do Bairro Centro ""Centro e Vila Vergueiro"""
+14100,Região do Bairro Boqueirão
+14100,Região do Bairro Vera Cruz
+14100,Região do Bairro Petrópolis
+14100,Região do Bairro São Luiz Gonzaga
+14100,"Região do Bairro ""Vila Cruzeiro"""
+14100,Região do Bairro Lucas de Araújo
+14100,Região do Bairro Santa Marta
+14100,Região do Bairro Integração
+14100,"Região do Bairro ""Vila Vitor Issler"""
+14100,Região do Bairro São José
+14100,Região do Bairro São Cristóvão
+14100,Região do Bairro Roselândia
+14100,"Região do Bairro ""Vila Mattos"""
+14100,"Região do Bairro Annes ""Vila Fátima e Vila Annes"""
+14100,Região do Bairro José Alexandre Zachia
+14100,"Região do Bairro Valinhos ""Loteamento Industrial e São Lucas"
+14100,"Região do Bairro ""Vila Luíza"""
+14100,"Região do Bairro ""Vila Rodrigues"""
+14100,"Região do Bairro ""Vila Santa Maria"""
+14100,Região do Bairro Planaltina
+14100,Região do Bairro Nenê Graeff
+14407,Três Vendas
+14407,Barragem
+14407,Fragata
+14407,Centro
+14407,Areal
+14407,Laranjal/Z3
+14407,São Gonçalo
+15602,Unidade Censitária 01
+15602,Unidade Censitária 02
+15602,Unidade Censitária 03
+15602,Unidade Censitária 04
+15602,Unidade Censitária 05
+15602,Unidade Censitária 06
+15602,Unidade Censitária 07
+15602,Unidade Censitária 08
+15602,Unidade Censitária 09
+15602,UNidade Censitária 10
+15602,Unidade Censitária 11
+15602,Unidade Censitária 12
+15602,Unidade Censitária 13
+15602,Unidade Censitária 14
+15602,Unidade Censitária 15
+15602,Unidade Censitária 16
+15602,Unidade Censitária 17
+15602,Unidade Censitária 18
+15602,Unidade Censitária 19
+15602,Unidade Censitária 20
+15602,Unidade Censitária 21
+15602,Unidade Censitária 22
+15602,Unidade Censitária 23
+15602,Unidade Censitária 24
+15602,Unidade Censitária 25
+15602,Unidade Censitária 26
+15602,Unidade Censitária 27
+15602,Unidade Censitária 28
+15602,Unidade Censitária 29
+15602,Unidade Censitária 30
+15602,Unidade Censitária 31
+15602,Unidade Censitária 32
+15602,Unidade Censitária 33
+15602,Unidade Censitária 34
+15602,Unidade Censitária 35
+15602,Unidade Censitária 36
+15602,Unidade Censitária 37
+15602,Unidade Censitária 38
+15602,Unidade Censitária 41
+15602,Unidade Censitária 42
+15602,Unidade Censitária 40
+15602,Unidade Censitária 39
+16907,Centro Urbano
+16907,Norte
+16907,Nordeste
+16907,Leste
+16907,Centro-Leste
+16907,Sul
+16907,Centro-Oeste
+16907,Oeste
+17509,Uplans 1
+17509,Uplans 2
+17509,Uplans 3
+17509,Uplans 4
+17509,Uplans 5
+17509,Uplans 6
+17509,Uplans 7
+17509,Uplans 8
+17509,Uplans 9
+17509,Uplans 10
+17509,Uplans 11
+17509,Uplans 12
+17509,Uplans 13
+17509,Uplans 14
+17509,Uplans 15
+17509,Uplans 16
+17509,Uplans 17
+17509,Uplans 18
+18507,Núcleo Cidade Baixa
+18507,Núcleo São José do Norte-Sul
+18507,Núcleo São José do Norte-Norte
+18507,Núcleo Centro Histórico
+18507,Núcleo Barra-Molhe Leste
+18507,Núcleo Zona Rural
+18507,Núcleo do Segundo Distrito
+18507,Núcleo do Terceiro Distrito
+2704,Região Urbana do Centro
+2704,Região Urbana do Prosa
+2704,Região Urbana do Segredo
+2704,Região Urbana do Imbirussú
+2704,Região Urbana do Anhanduizinho
+2704,Região Urbana do Bandeira
+2704,Região Urbana do Lagoa
+6606,Setor Vilela
+6606,Setor Ypê
+6606,Setor Centro
+6606,Setor Aeroporto
+6606,Setor Marambaia
+3403,Administração Regional Norte
+3403,Administração Regional Centro-Oeste
+3403,Administração Regional Centro-Leste
+3403,Administração Regional Sul-Leste
+8707,U.T.P. Central
+8707,U.T.P. Sul
+8707,U.T.P. Marista
+8707,U.T.P. Oeste
+8707,U.T.P. Aeroporto
+8707,U.T.P. Norte Ferroviário
+8707,U.T.P. Vila Nova
+8707,U.T.P. Leste Universitário
+8707,U.T.P. Jardim Goiás
+8707,U.T.P. Alto da Glória e Redenção
+8707,U.T.P. Santo Antonio
+8707,U.T.P. Pedro Ludovico/Bela Vista/Jardins das Esmeraldas
+8707,U.T.P. Bueno
+8707,U.T.P. Nova Suiça
+8707,U.T.P. Parque Amazônia
+8707,U.T.P. Jardim América
+8707,U.T.P. Sudoeste
+8707,U.T.P. Cidade Jardim
+8707,U.T.P. Coimbra
+8707,U.T.P. Campinas
+8707,U.T.P. Aeroviários
+8707,U.T.P. Marechal Rondon
+8707,U.T.P. Criméia Leste
+8707,U.T.P. Negrão de Lima
+8707,U.T.P. Bairro Feliz
+8707,U.T.P. Jardim Novo Mundo
+8707,U.T.P. Riviera/Água Branca
+8707,U.T.P. Autódromo ou Parque Lozandes
+8707,U.T.P. Parque das Laranjeiras e Jardim da Luz
+8707,U.T.P. Jardim Atlântico
+8707,U.T.P. Jardim Europa
+8707,U.T.P. Novo Horizonte/Faiçalville
+8707,U.T.P. Celina Park/Recreio dos Funcionários
+8707,U.T.P. Caravelas
+8707,U.T.P. Baliza-Itaipu
+8707,U.T.P. Parque Santa Rita
+8707,U.T.P. Parque Oeste Industrial
+8707,U.T.P. João Braz
+8707,U.T.P. Vila Rizzo
+8707,U.T.P. Parque Bom Jesus
+8707,U.T.P. Vera Cruz
+8707,U.T.P. Jardim Petrópolis
+8707,U.T.P. Vila Regina/Parque Industrial Paulista/Santos Dumont
+8707,U.T.P. Cândida de Morais/Maria Dilce
+8707,U.T.P. Capuava
+8707,U.T.P. Urias Magalhães
+8707,U.T.P. Goiânia II
+8707,U.T.P. Santa Genoveva
+8707,U.T.P. Aeroporto Internacional Santa Genoveva
+8707,U.T.P. Jaó
+8707,U.T.P. Santo Hilário
+8707,U.T.P. Vila Pedroso
+8707,U.T.P. Chácaras São Joaquim
+8707,U.T.P. Mutirão e Curitiba
+8707,U.T.P. São Domingos
+8707,U.T.P. Finsocial
+8707,U.T.P. Jardim Balneário Meia Ponte/Mansões Goianas
+8707,U.T.P. Campus Universitário/Conjunto Itatiaia
+8707,U.T.P. Vila Jardim São Judas Tadeu/Jardim Pompéia
+8707,U.T.P. Jardim Guanabara
+8707,U.T.P. CEASA/Aldeia do Vale
+8707,U.T.P. Jardim Primavera
+8707,U.T.P. Zona Rural
+108,Plano Piloto
+108,Gama
+108,Taguatinga
+108,Brazlândia
+108,Sobradinho
+108,Planaltina
+108,Paranoá
+108,Riacho Fundo
+108,Núcleo Bandeirante
+108,Ceilândia
+108,Guará
+108,Cruzeiro
+108,Samambaia
+108,Candangolândia
+108,Recanto das Emas
+108,Lago Norte
+108,Lago Sul
+108,Santa Maria
+108,São Sebastião
+108,Sol Nascente/Pôr do Sol
+108,Arniqueira
+108,SIA
+108,SCIA
+108,Sudoeste/Octogonal
+108,Águas Claras
+108,Vicente Pires
+108,Itapoã
+108,Fercal
+108,Jardim Botânico
+108,Riacho Fundo II
+108,Park Way
+108,Varjão
+108,Sobradinho II

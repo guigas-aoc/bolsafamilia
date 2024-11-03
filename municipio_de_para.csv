@@ -1,0 +1,5570 @@
+codigo_ibge,nome_municipio
+379,Alto Alegre dos Parecis
+403,Alto Paraíso
+346,Alvorada D'Oeste
+23,Ariquemes
+452,Buritis
+31,Cabixi
+601,Cacaulândia
+49,Cacoal
+700,Campo Novo de Rondônia
+809,Candeias do Jamari
+908,Castanheiras
+56,Cerejeiras
+924,Chupinguaia
+64,Colorado do Oeste
+72,Corumbiara
+80,Costa Marques
+940,Cujubim
+98,Espigão D'Oeste
+1005,Governador Jorge Teixeira
+106,Guajará-Mirim
+1104,Itapuã do Oeste
+114,Jaru
+122,Ji-Paraná
+130,Machadinho D'Oeste
+1203,Ministro Andreazza
+1302,Mirante da Serra
+1401,Monte Negro
+148,Nova Brasilândia D'Oeste
+338,Nova Mamoré
+1435,Nova União
+502,Novo Horizonte do Oeste
+155,Ouro Preto do Oeste
+1450,Parecis
+189,Pimenta Bueno
+1468,Pimenteiras do Oeste
+205,Porto Velho
+254,Presidente Médici
+1476,Primavera de Rondônia
+262,Rio Crespo
+288,Rolim de Moura
+296,Santa Luzia D'Oeste
+1484,São Felipe D'Oeste
+1492,São Francisco do Guaporé
+320,São Miguel do Guaporé
+1500,Seringueiras
+1559,Teixeirópolis
+1609,Theobroma
+1708,Urupá
+1757,Vale do Anari
+1807,Vale do Paraíso
+304,Vilhena
+13,Acrelândia
+54,Assis Brasil
+104,Brasiléia
+138,Bujari
+179,Capixaba
+203,Cruzeiro do Sul
+252,Epitaciolândia
+302,Feijó
+328,Jordão
+336,Mâncio Lima
+344,Manoel Urbano
+351,Marechal Thaumaturgo
+385,Plácido de Castro
+807,Porto Acre
+393,Porto Walter
+401,Rio Branco
+427,Rodrigues Alves
+435,Santa Rosa do Purus
+500,Sena Madureira
+450,Senador Guiomard
+609,Tarauacá
+708,Xapuri
+29,Alvarães
+60,Amaturá
+86,Anamã
+102,Anori
+144,Apuí
+201,Atalaia do Norte
+300,Autazes
+409,Barcelos
+508,Barreirinha
+607,Benjamin Constant
+631,Beruri
+680,Boa Vista do Ramos
+706,Boca do Acre
+805,Borba
+839,Caapiranga
+904,Canutama
+1001,Carauari
+1100,Careiro
+1159,Careiro da Várzea
+1209,Coari
+1308,Codajás
+1407,Eirunepé
+1506,Envira
+1605,Fonte Boa
+1654,Guajará
+1704,Humaitá
+1803,Ipixuna
+1852,Iranduba
+1902,Itacoatiara
+1951,Itamarati
+2009,Itapiranga
+2108,Japurá
+2207,Juruá
+2306,Jutaí
+2405,Lábrea
+2504,Manacapuru
+2553,Manaquiri
+2603,Manaus
+2702,Manicoré
+2801,Maraã
+2900,Maués
+3007,Nhamundá
+3106,Nova Olinda do Norte
+3205,Novo Airão
+3304,Novo Aripuanã
+3403,Parintins
+3502,Pauini
+3536,Presidente Figueiredo
+3569,Rio Preto da Eva
+3601,Santa Isabel do Rio Negro
+3700,Santo Antônio do Içá
+3809,São Gabriel da Cachoeira
+3908,São Paulo de Olivença
+3957,São Sebastião do Uatumã
+4005,Silves
+4062,Tabatinga
+4104,Tapauá
+4203,Tefé
+4237,Tonantins
+4260,Uarini
+4302,Urucará
+4401,Urucurituba
+50,Alto Alegre
+27,Amajari
+100,Boa Vista
+159,Bonfim
+175,Cantá
+209,Caracaraí
+233,Caroebe
+282,Iracema
+308,Mucajaí
+407,Normandia
+456,Pacaraima
+472,Rorainópolis
+506,São João da Baliza
+605,São Luiz
+704,Uiramutã
+107,Abaetetuba
+131,Abel Figueiredo
+206,Acará
+305,Afuá
+347,Água Azul do Norte
+404,Alenquer
+503,Almeirim
+602,Altamira
+701,Anajás
+800,Ananindeua
+859,Anapu
+909,Augusto Corrêa
+958,Aurora do Pará
+1006,Aveiro
+1105,Bagre
+1204,Baião
+1253,Bannach
+1303,Barcarena
+1402,Belém
+1451,Belterra
+1501,Benevides
+1576,Bom Jesus do Tocantins
+1600,Bonito
+1709,Bragança
+1725,Brasil Novo
+1758,Brejo Grande do Araguaia
+1782,Breu Branco
+1808,Breves
+1907,Bujaru
+2004,Cachoeira do Arari
+1956,Cachoeira do Piriá
+2103,Cametá
+2152,Canaã dos Carajás
+2202,Capanema
+2301,Capitão Poço
+2400,Castanhal
+2509,Chaves
+2608,Colares
+2707,Conceição do Araguaia
+2756,Concórdia do Pará
+2764,Cumaru do Norte
+2772,Curionópolis
+2806,Curralinho
+2855,Curuá
+2905,Curuçá
+2939,Dom Eliseu
+2954,Eldorado do Carajás
+3002,Faro
+3044,Floresta do Araguaia
+3077,Garrafão do Norte
+3093,Goianésia do Pará
+3101,Gurupá
+3200,Igarapé-Açu
+3309,Igarapé-Miri
+3408,Inhangapi
+3457,Ipixuna do Pará
+3507,Irituia
+3606,Itaituba
+3705,Itupiranga
+3754,Jacareacanga
+3804,Jacundá
+3903,Juruti
+4000,Limoeiro do Ajuru
+4059,Mãe do Rio
+4109,Magalhães Barata
+4208,Marabá
+4307,Maracanã
+4406,Marapanim
+4422,Marituba
+4455,Medicilândia
+4505,Melgaço
+4604,Mocajuba
+4703,Moju
+4752,Mojuí dos Campos
+4802,Monte Alegre
+4901,Muaná
+4950,Nova Esperança do Piriá
+4976,Nova Ipixuna
+5007,Nova Timboteua
+5031,Novo Progresso
+5064,Novo Repartimento
+5106,Óbidos
+5205,Oeiras do Pará
+5304,Oriximiná
+5403,Ourém
+5437,Ourilândia do Norte
+5486,Pacajá
+5494,Palestina do Pará
+5502,Paragominas
+5536,Parauapebas
+5551,Pau D'Arco
+5601,Peixe-Boi
+5635,Piçarra
+5650,Placas
+5700,Ponta de Pedras
+5809,Portel
+5908,Porto de Moz
+6005,Prainha
+6104,Primavera
+6112,Quatipuru
+6138,Redenção
+6161,Rio Maria
+6187,Rondon do Pará
+6195,Rurópolis
+6203,Salinópolis
+6302,Salvaterra
+6351,Santa Bárbara do Pará
+6401,Santa Cruz do Arari
+6500,Santa Izabel do Pará
+6559,Santa Luzia do Pará
+6583,Santa Maria das Barreiras
+6609,Santa Maria do Pará
+6708,Santana do Araguaia
+6807,Santarém
+6906,Santarém Novo
+7003,Santo Antônio do Tauá
+7102,São Caetano de Odivelas
+7151,São Domingos do Araguaia
+7201,São Domingos do Capim
+7300,São Félix do Xingu
+7409,São Francisco do Pará
+7458,São Geraldo do Araguaia
+7466,São João da Ponta
+7474,São João de Pirabas
+7508,São João do Araguaia
+7607,São Miguel do Guamá
+7706,São Sebastião da Boa Vista
+7755,Sapucaia
+7805,Senador José Porfírio
+7904,Soure
+7953,Tailândia
+7961,Terra Alta
+7979,Terra Santa
+8001,Tomé-Açu
+8035,Tracuateua
+8050,Trairão
+8084,Tucumã
+8100,Tucuruí
+8126,Ulianópolis
+8159,Uruará
+8209,Vigia
+8308,Viseu
+8357,Vitória do Xingu
+8407,Xinguara
+105,Amapá
+204,Calçoene
+212,Cutias
+238,Ferreira Gomes
+253,Itaubal
+279,Laranjal do Jari
+303,Macapá
+402,Mazagão
+501,Oiapoque
+154,Pedra Branca do Amapari
+535,Porto Grande
+550,Pracuúba
+600,Santana
+55,Serra do Navio
+709,Tartarugalzinho
+808,Vitória do Jari
+251,Abreulândia
+301,Aguiarnópolis
+350,Aliança do Tocantins
+400,Almas
+707,Alvorada
+1002,Ananás
+1051,Angico
+1101,Aparecida do Rio Negro
+1309,Aragominas
+1903,Araguacema
+2000,Araguaçu
+2109,Araguaína
+2158,Araguanã
+2208,Araguatins
+2307,Arapoema
+2406,Arraias
+2554,Augustinópolis
+2703,Aurora do Tocantins
+2901,Axixá do Tocantins
+3008,Babaçulândia
+3057,Bandeirantes do Tocantins
+3073,Barra do Ouro
+3107,Barrolândia
+3206,Bernardo Sayão
+3305,Bom Jesus do Tocantins
+3602,Brasilândia do Tocantins
+3701,Brejinho de Nazaré
+3800,Buriti do Tocantins
+3826,Cachoeirinha
+3842,Campos Lindos
+3867,Cariri do Tocantins
+3883,Carmolândia
+3891,Carrasco Bonito
+3909,Caseara
+4105,Centenário
+5102,Chapada da Natividade
+4600,Chapada de Areia
+5508,Colinas do Tocantins
+16703,Colméia
+5557,Combinado
+5607,Conceição do Tocantins
+6001,Couto Magalhães
+6100,Cristalândia
+6258,Crixás do Tocantins
+6506,Darcinópolis
+7009,Dianópolis
+7108,Divinópolis do Tocantins
+7207,Dois Irmãos do Tocantins
+7306,Dueré
+7405,Esperantina
+7553,Fátima
+7652,Figueirópolis
+7702,Filadélfia
+8205,Formoso do Araguaia
+8304,Goianorte
+9005,Goiatins
+9302,Guaraí
+9500,Gurupi
+9807,Ipueiras
+10508,Itacajá
+10706,Itaguatins
+10904,Itapiratins
+11100,Itaporã do Tocantins
+11506,Jaú do Tocantins
+11803,Juarina
+11902,Lagoa da Confusão
+11951,Lagoa do Tocantins
+12009,Lajeado
+12157,Lavandeira
+12405,Lizarda
+12454,Luzinópolis
+12504,Marianópolis do Tocantins
+12702,Mateiros
+12801,Maurilândia do Tocantins
+13205,Miracema do Tocantins
+13304,Miranorte
+13601,Monte do Carmo
+13700,Monte Santo do Tocantins
+13957,Muricilândia
+14203,Natividade
+14302,Nazaré
+14880,Nova Olinda
+15002,Nova Rosalândia
+15101,Novo Acordo
+15150,Novo Alegre
+15259,Novo Jardim
+15507,Oliveira de Fátima
+21000,Palmas
+15705,Palmeirante
+13809,Palmeiras do Tocantins
+15754,Palmeirópolis
+16109,Paraíso do Tocantins
+16208,Paranã
+16307,Pau D'Arco
+16505,Pedro Afonso
+16604,Peixe
+16653,Pequizeiro
+17008,Pindorama do Tocantins
+17206,Piraquê
+17503,Pium
+17800,Ponte Alta do Bom Jesus
+17909,Ponte Alta do Tocantins
+18006,Porto Alegre do Tocantins
+18204,Porto Nacional
+18303,Praia Norte
+18402,Presidente Kennedy
+18451,Pugmil
+18501,Recursolândia
+18550,Riachinho
+18659,Rio da Conceição
+18709,Rio dos Bois
+18758,Rio Sono
+18808,Sampaio
+18840,Sandolândia
+18865,Santa Fé do Araguaia
+18881,Santa Maria do Tocantins
+18899,Santa Rita do Tocantins
+18907,Santa Rosa do Tocantins
+19004,Santa Tereza do Tocantins
+20002,Santa Terezinha do Tocantins
+20101,São Bento do Tocantins
+20150,São Félix do Tocantins
+20200,São Miguel do Tocantins
+20259,São Salvador do Tocantins
+20309,São Sebastião do Tocantins
+20499,São Valério
+20655,Silvanópolis
+20804,Sítio Novo do Tocantins
+20853,Sucupira
+8254,Tabocão
+20903,Taguatinga
+20937,Taipas do Tocantins
+20978,Talismã
+21109,Tocantínia
+21208,Tocantinópolis
+21257,Tupirama
+21307,Tupiratins
+22081,Wanderlândia
+22107,Xambioá
+55,Açailândia
+105,Afonso Cunha
+154,Água Doce do Maranhão
+204,Alcântara
+303,Aldeias Altas
+402,Altamira do Maranhão
+436,Alto Alegre do Maranhão
+477,Alto Alegre do Pindaré
+501,Alto Parnaíba
+550,Amapá do Maranhão
+600,Amarante do Maranhão
+709,Anajatuba
+808,Anapurus
+832,Apicum-Açu
+873,Araguanã
+907,Araioses
+956,Arame
+1004,Arari
+1103,Axixá
+1202,Bacabal
+1251,Bacabeira
+1301,Bacuri
+1350,Bacurituba
+1400,Balsas
+1509,Barão de Grajaú
+1608,Barra do Corda
+1707,Barreirinhas
+1772,Bela Vista do Maranhão
+1731,Belágua
+1806,Benedito Leite
+1905,Bequimão
+1939,Bernardo do Mearim
+1970,Boa Vista do Gurupi
+2002,Bom Jardim
+2036,Bom Jesus das Selvas
+2077,Bom Lugar
+2101,Brejo
+2150,Brejo de Areia
+2200,Buriti
+2309,Buriti Bravo
+2325,Buriticupu
+2358,Buritirana
+2374,Cachoeira Grande
+2408,Cajapió
+2507,Cajari
+2556,Campestre do Maranhão
+2606,Cândido Mendes
+2705,Cantanhede
+2754,Capinzal do Norte
+2804,Carolina
+2903,Carutapera
+3000,Caxias
+3109,Cedral
+3125,Central do Maranhão
+3158,Centro do Guilherme
+3174,Centro Novo do Maranhão
+3208,Chapadinha
+3257,Cidelândia
+3307,Codó
+3406,Coelho Neto
+3505,Colinas
+3554,Conceição do Lago-Açu
+3604,Coroatá
+3703,Cururupu
+3752,Davinópolis
+3802,Dom Pedro
+3901,Duque Bacelar
+4008,Esperantinópolis
+4057,Estreito
+4073,Feira Nova do Maranhão
+4081,Fernando Falcão
+4099,Formosa da Serra Negra
+4107,Fortaleza dos Nogueiras
+4206,Fortuna
+4305,Godofredo Viana
+4404,Gonçalves Dias
+4503,Governador Archer
+4552,Governador Edison Lobão
+4602,Governador Eugênio Barros
+4628,Governador Luiz Rocha
+4651,Governador Newton Bello
+4677,Governador Nunes Freire
+4701,Graça Aranha
+4800,Grajaú
+4909,Guimarães
+5005,Humberto de Campos
+5104,Icatu
+5153,Igarapé do Meio
+5203,Igarapé Grande
+5302,Imperatriz
+5351,Itaipava do Grajaú
+5401,Itapecuru Mirim
+5427,Itinga do Maranhão
+5450,Jatobá
+5476,Jenipapo dos Vieiras
+5500,João Lisboa
+5609,Joselândia
+5658,Junco do Maranhão
+5708,Lago da Pedra
+5807,Lago do Junco
+5948,Lago dos Rodrigues
+5906,Lago Verde
+5922,Lagoa do Mato
+5963,Lagoa Grande do Maranhão
+5989,Lajeado Novo
+6003,Lima Campos
+6102,Loreto
+6201,Luís Domingues
+6300,Magalhães de Almeida
+6326,Maracaçumé
+6359,Marajá do Sena
+6375,Maranhãozinho
+6409,Mata Roma
+6508,Matinha
+6607,Matões
+6631,Matões do Norte
+6672,Milagres do Maranhão
+6706,Mirador
+6755,Miranda do Norte
+6805,Mirinzal
+6904,Monção
+7001,Montes Altos
+7100,Morros
+7209,Nina Rodrigues
+7258,Nova Colinas
+7308,Nova Iorque
+7357,Nova Olinda do Maranhão
+7407,Olho d'Água das Cunhãs
+7456,Olinda Nova do Maranhão
+7506,Paço do Lumiar
+7605,Palmeirândia
+7704,Paraibano
+7803,Parnarama
+7902,Passagem Franca
+8009,Pastos Bons
+8058,Paulino Neves
+8108,Paulo Ramos
+8207,Pedreiras
+8256,Pedro do Rosário
+8306,Penalva
+8405,Peri Mirim
+8454,Peritoró
+8504,Pindaré-Mirim
+8603,Pinheiro
+8702,Pio XII
+8801,Pirapemas
+8900,Poção de Pedras
+9007,Porto Franco
+9056,Porto Rico do Maranhão
+9106,Presidente Dutra
+9205,Presidente Juscelino
+9239,Presidente Médici
+9270,Presidente Sarney
+9304,Presidente Vargas
+9403,Primeira Cruz
+9452,Raposa
+9502,Riachão
+9551,Ribamar Fiquene
+9601,Rosário
+9700,Sambaíba
+9759,Santa Filomena do Maranhão
+9809,Santa Helena
+9908,Santa Inês
+10005,Santa Luzia
+10039,Santa Luzia do Paruá
+10104,Santa Quitéria do Maranhão
+10203,Santa Rita
+10237,Santana do Maranhão
+10278,Santo Amaro do Maranhão
+10302,Santo Antônio dos Lopes
+10401,São Benedito do Rio Preto
+10500,São Bento
+10609,São Bernardo
+10658,São Domingos do Azeitão
+10708,São Domingos do Maranhão
+10807,São Félix de Balsas
+10856,São Francisco do Brejão
+10906,São Francisco do Maranhão
+11003,São João Batista
+11029,São João do Carú
+11052,São João do Paraíso
+11078,São João do Soter
+11102,São João dos Patos
+11201,São José de Ribamar
+11250,São José dos Basílios
+11300,São Luís
+11409,São Luís Gonzaga do Maranhão
+11508,São Mateus do Maranhão
+11532,São Pedro da Água Branca
+11573,São Pedro dos Crentes
+11607,São Raimundo das Mangabeiras
+11631,São Raimundo do Doca Bezerra
+11672,São Roberto
+11706,São Vicente Ferrer
+11722,Satubinha
+11748,Senador Alexandre Costa
+11763,Senador La Rocque
+11789,Serrano do Maranhão
+11805,Sítio Novo
+11904,Sucupira do Norte
+11953,Sucupira do Riachão
+12001,Tasso Fragoso
+12100,Timbiras
+12209,Timon
+12233,Trizidela do Vale
+12274,Tufilândia
+12308,Tuntum
+12407,Turiaçu
+12456,Turilândia
+12506,Tutóia
+12605,Urbano Santos
+12704,Vargem Grande
+12803,Viana
+12852,Vila Nova dos Martírios
+12902,Vitória do Mearim
+13009,Vitorino Freire
+14007,Zé Doca
+53,Acauã
+103,Agricolândia
+202,Água Branca
+251,Alagoinha do Piauí
+277,Alegrete do Piauí
+301,Alto Longá
+400,Altos
+459,Alvorada do Gurguéia
+509,Amarante
+608,Angical do Piauí
+707,Anísio de Abreu
+806,Antônio Almeida
+905,Aroazes
+954,Aroeiras do Itaim
+1002,Arraial
+1051,Assunção do Piauí
+1101,Avelino Lopes
+1150,Baixa Grande do Ribeiro
+1176,Barra D'Alcântara
+1200,Barras
+1309,Barreiras do Piauí
+1408,Barro Duro
+1507,Batalha
+1556,Bela Vista do Piauí
+1572,Belém do Piauí
+1606,Beneditinos
+1705,Bertolínia
+1739,Betânia do Piauí
+1770,Boa Hora
+1804,Bocaina
+1903,Bom Jesus
+1919,Bom Princípio do Piauí
+1929,Bonfim do Piauí
+1945,Boqueirão do Piauí
+1960,Brasileira
+1988,Brejo do Piauí
+2000,Buriti dos Lopes
+2026,Buriti dos Montes
+2059,Cabeceiras do Piauí
+2075,Cajazeiras do Piauí
+2083,Cajueiro da Praia
+2091,Caldeirão Grande do Piauí
+2109,Campinas do Piauí
+2117,Campo Alegre do Fidalgo
+2133,Campo Grande do Piauí
+2174,Campo Largo do Piauí
+2208,Campo Maior
+2251,Canavieira
+2307,Canto do Buriti
+2406,Capitão de Campos
+2455,Capitão Gervásio Oliveira
+2505,Caracol
+2539,Caraúbas do Piauí
+2554,Caridade do Piauí
+2604,Castelo do Piauí
+2653,Caxingó
+2703,Cocal
+2711,Cocal de Telha
+2729,Cocal dos Alves
+2737,Coivaras
+2752,Colônia do Gurguéia
+2778,Colônia do Piauí
+2802,Conceição do Canindé
+2851,Coronel José Dias
+2901,Corrente
+3008,Cristalândia do Piauí
+3107,Cristino Castro
+3206,Curimatá
+3230,Currais
+3271,Curral Novo do Piauí
+3255,Curralinhos
+3305,Demerval Lobão
+3354,Dirceu Arcoverde
+3404,Dom Expedito Lopes
+3453,Dom Inocêncio
+3420,Domingos Mourão
+3503,Elesbão Veloso
+3602,Eliseu Martins
+3701,Esperantina
+3750,Fartura do Piauí
+3800,Flores do Piauí
+3859,Floresta do Piauí
+3909,Floriano
+4006,Francinópolis
+4105,Francisco Ayres
+4154,Francisco Macedo
+4204,Francisco Santos
+4303,Fronteiras
+4352,Geminiano
+4402,Gilbués
+4501,Guadalupe
+4550,Guaribas
+4600,Hugo Napoleão
+4659,Ilha Grande
+4709,Inhuma
+4808,Ipiranga do Piauí
+4907,Isaías Coelho
+5003,Itainópolis
+5102,Itaueira
+5151,Jacobina do Piauí
+5201,Jaicós
+5250,Jardim do Mulato
+5276,Jatobá do Piauí
+5300,Jerumenha
+5359,João Costa
+5409,Joaquim Pires
+5458,Joca Marques
+5508,José de Freitas
+5516,Juazeiro do Piauí
+5524,Júlio Borges
+5532,Jurema
+5557,Lagoa Alegre
+5573,Lagoa de São Francisco
+5565,Lagoa do Barro do Piauí
+5581,Lagoa do Piauí
+5599,Lagoa do Sítio
+5540,Lagoinha do Piauí
+5607,Landri Sales
+5706,Luís Correia
+5805,Luzilândia
+5854,Madeiro
+5904,Manoel Emídio
+5953,Marcolândia
+6001,Marcos Parente
+6050,Massapê do Piauí
+6100,Matias Olímpio
+6209,Miguel Alves
+6308,Miguel Leão
+6357,Milton Brandão
+6407,Monsenhor Gil
+6506,Monsenhor Hipólito
+6605,Monte Alegre do Piauí
+6654,Morro Cabeça no Tempo
+6670,Morro do Chapéu do Piauí
+6696,Murici dos Portelas
+6704,Nazaré do Piauí
+6720,Nazária
+6753,Nossa Senhora de Nazaré
+6803,Nossa Senhora dos Remédios
+7959,Nova Santa Rita
+6902,Novo Oriente do Piauí
+6951,Novo Santo Antônio
+7009,Oeiras
+7108,Olho D'Água do Piauí
+7207,Padre Marcos
+7306,Paes Landim
+7355,Pajeú do Piauí
+7405,Palmeira do Piauí
+7504,Palmeirais
+7553,Paquetá
+7603,Parnaguá
+7702,Parnaíba
+7751,Passagem Franca do Piauí
+7777,Patos do Piauí
+7793,Pau D'Arco do Piauí
+7801,Paulistana
+7850,Pavussu
+7900,Pedro II
+7934,Pedro Laurentino
+8007,Picos
+8106,Pimenteiras
+8205,Pio IX
+8304,Piracuruca
+8403,Piripiri
+8502,Porto
+8551,Porto Alegre do Piauí
+8601,Prata do Piauí
+8650,Queimada Nova
+8700,Redenção do Gurguéia
+8809,Regeneração
+8858,Riacho Frio
+8874,Ribeira do Piauí
+8908,Ribeiro Gonçalves
+9005,Rio Grande do Piauí
+9104,Santa Cruz do Piauí
+9153,Santa Cruz dos Milagres
+9203,Santa Filomena
+9302,Santa Luz
+9377,Santa Rosa do Piauí
+9351,Santana do Piauí
+9401,Santo Antônio de Lisboa
+9450,Santo Antônio dos Milagres
+9500,Santo Inácio do Piauí
+9559,São Braz do Piauí
+9609,São Félix do Piauí
+9658,São Francisco de Assis do Piauí
+9708,São Francisco do Piauí
+9757,São Gonçalo do Gurguéia
+9807,São Gonçalo do Piauí
+9856,São João da Canabrava
+9872,São João da Fronteira
+9906,São João da Serra
+9955,São João da Varjota
+9971,São João do Arraial
+10003,São João do Piauí
+10052,São José do Divino
+10102,São José do Peixe
+10201,São José do Piauí
+10300,São Julião
+10359,São Lourenço do Piauí
+10375,São Luis do Piauí
+10383,São Miguel da Baixa Grande
+10391,São Miguel do Fidalgo
+10409,São Miguel do Tapuio
+10508,São Pedro do Piauí
+10607,São Raimundo Nonato
+10623,Sebastião Barros
+10631,Sebastião Leal
+10656,Sigefredo Pacheco
+10706,Simões
+10805,Simplício Mendes
+10904,Socorro do Piauí
+10938,Sussuapara
+10953,Tamboril do Piauí
+10979,Tanque do Piauí
+11001,Teresina
+11100,União
+11209,Uruçuí
+11308,Valença do Piauí
+11357,Várzea Branca
+11407,Várzea Grande
+11506,Vera Mendes
+11605,Vila Nova do Piauí
+11704,Wall Ferraz
+101,Abaiara
+150,Acarape
+200,Acaraú
+309,Acopiara
+408,Aiuaba
+507,Alcântaras
+606,Altaneira
+705,Alto Santo
+754,Amontada
+804,Antonina do Norte
+903,Apuiarés
+1000,Aquiraz
+1109,Aracati
+1208,Aracoiaba
+1257,Ararendá
+1307,Araripe
+1406,Aratuba
+1505,Arneiroz
+1604,Assaré
+1703,Aurora
+1802,Baixio
+1851,Banabuiú
+1901,Barbalha
+1950,Barreira
+2008,Barro
+2057,Barroquinha
+2107,Baturité
+2206,Beberibe
+2305,Bela Cruz
+2404,Boa Viagem
+2503,Brejo Santo
+2602,Camocim
+2701,Campos Sales
+2800,Canindé
+2909,Capistrano
+3006,Caridade
+3105,Cariré
+3204,Caririaçu
+3303,Cariús
+3402,Carnaubal
+3501,Cascavel
+3600,Catarina
+3659,Catunda
+3709,Caucaia
+3808,Cedro
+3907,Chaval
+3931,Choró
+3956,Chorozinho
+4004,Coreaú
+4103,Crateús
+4202,Crato
+4236,Croatá
+4251,Cruz
+4269,Deputado Irapuan Pinheiro
+4277,Ereré
+4285,Eusébio
+4301,Farias Brito
+4350,Forquilha
+4400,Fortaleza
+4459,Fortim
+4509,Frecheirinha
+4608,General Sampaio
+4657,Graça
+4707,Granja
+4806,Granjeiro
+4905,Groaíras
+4954,Guaiúba
+5001,Guaraciaba do Norte
+5100,Guaramiranga
+5209,Hidrolândia
+5233,Horizonte
+5266,Ibaretama
+5308,Ibiapina
+5332,Ibicuitinga
+5357,Icapuí
+5407,Icó
+5506,Iguatu
+5605,Independência
+5654,Ipaporanga
+5704,Ipaumirim
+5803,Ipu
+5902,Ipueiras
+6009,Iracema
+6108,Irauçuba
+6207,Itaiçaba
+6256,Itaitinga
+6306,Itapajé
+6405,Itapipoca
+6504,Itapiúna
+6553,Itarema
+6603,Itatira
+6702,Jaguaretama
+6801,Jaguaribara
+6900,Jaguaribe
+7007,Jaguaruana
+7106,Jardim
+7205,Jati
+7254,Jijoca de Jericoacoara
+7304,Juazeiro do Norte
+7403,Jucás
+7502,Lavras da Mangabeira
+7601,Limoeiro do Norte
+7635,Madalena
+7650,Maracanaú
+7700,Maranguape
+7809,Marco
+7908,Martinópole
+8005,Massapê
+8104,Mauriti
+8203,Meruoca
+8302,Milagres
+8351,Milhã
+8377,Miraíma
+8401,Missão Velha
+8500,Mombaça
+8609,Monsenhor Tabosa
+8708,Morada Nova
+8807,Moraújo
+8906,Morrinhos
+9003,Mucambo
+9102,Mulungu
+9201,Nova Olinda
+9300,Nova Russas
+9409,Novo Oriente
+9458,Ocara
+9508,Orós
+9607,Pacajus
+9706,Pacatuba
+9805,Pacoti
+9904,Pacujá
+10001,Palhano
+10100,Palmácia
+10209,Paracuru
+10258,Paraipaba
+10308,Parambu
+10407,Paramoti
+10506,Pedra Branca
+10605,Penaforte
+10704,Pentecoste
+10803,Pereiro
+10852,Pindoretama
+10902,Piquet Carneiro
+10951,Pires Ferreira
+11009,Poranga
+11108,Porteiras
+11207,Potengi
+11231,Potiretama
+11264,Quiterianópolis
+11306,Quixadá
+11355,Quixelô
+11405,Quixeramobim
+11504,Quixeré
+11603,Redenção
+11702,Reriutaba
+11801,Russas
+11900,Saboeiro
+11959,Salitre
+12205,Santa Quitéria
+12007,Santana do Acaraú
+12106,Santana do Cariri
+12304,São Benedito
+12403,São Gonçalo do Amarante
+12502,São João do Jaguaribe
+12601,São Luís do Curu
+12700,Senador Pompeu
+12809,Senador Sá
+12908,Sobral
+13005,Solonópole
+13104,Tabuleiro do Norte
+13203,Tamboril
+13252,Tarrafas
+13302,Tauá
+13351,Tejuçuoca
+13401,Tianguá
+13500,Trairi
+13559,Tururu
+13609,Ubajara
+13708,Umari
+13757,Umirim
+13807,Uruburetama
+13906,Uruoca
+13955,Varjota
+14003,Várzea Alegre
+14102,Viçosa do Ceará
+109,Acari
+208,Açu
+307,Afonso Bezerra
+406,Água Nova
+505,Alexandria
+604,Almino Afonso
+703,Alto do Rodrigues
+802,Angicos
+901,Antônio Martins
+1008,Apodi
+1107,Areia Branca
+1206,Arês
+1404,Baía Formosa
+1453,Baraúna
+1503,Barcelona
+1602,Bento Fernandes
+1651,Bodó
+1701,Bom Jesus
+1800,Brejinho
+1859,Caiçara do Norte
+1909,Caiçara do Rio do Vento
+2006,Caicó
+1305,Campo Grande
+2105,Campo Redondo
+2204,Canguaretama
+2303,Caraúbas
+2402,Carnaúba dos Dantas
+2501,Carnaubais
+2600,Ceará-Mirim
+2709,Cerro Corá
+2808,Coronel Ezequiel
+2907,Coronel João Pessoa
+3004,Cruzeta
+3103,Currais Novos
+3202,Doutor Severiano
+3301,Encanto
+3400,Equador
+3509,Espírito Santo
+3608,Extremoz
+3707,Felipe Guerra
+3756,Fernando Pedroza
+3806,Florânia
+3905,Francisco Dantas
+4002,Frutuoso Gomes
+4101,Galinhos
+4200,Goianinha
+4309,Governador Dix-Sept Rosado
+4408,Grossos
+4507,Guamaré
+4606,Ielmo Marinho
+4705,Ipanguaçu
+4804,Ipueira
+4853,Itajá
+4903,Itaú
+5009,Jaçanã
+5108,Jandaíra
+5207,Janduís
+5306,Januário Cicco
+5405,Japi
+5504,Jardim de Angicos
+5603,Jardim de Piranhas
+5702,Jardim do Seridó
+5801,João Câmara
+5900,João Dias
+6007,José da Penha
+6106,Jucurutu
+6155,Jundiá
+6205,Lagoa d'Anta
+6304,Lagoa de Pedras
+6403,Lagoa de Velhos
+6502,Lagoa Nova
+6601,Lagoa Salgada
+6700,Lajes
+6809,Lajes Pintadas
+6908,Lucrécia
+7005,Luís Gomes
+7104,Macaíba
+7203,Macau
+7252,Major Sales
+7302,Marcelino Vieira
+7401,Martins
+7500,Maxaranguape
+7609,Messias Targino
+7708,Montanhas
+7807,Monte Alegre
+7906,Monte das Gameleiras
+8003,Mossoró
+8102,Natal
+8201,Nísia Floresta
+8300,Nova Cruz
+8409,Olho d'Água do Borges
+8508,Ouro Branco
+8607,Paraná
+8706,Paraú
+8805,Parazinho
+8904,Parelhas
+3251,Parnamirim
+9100,Passa e Fica
+9209,Passagem
+9308,Patu
+9407,Pau dos Ferros
+9506,Pedra Grande
+9605,Pedra Preta
+9704,Pedro Avelino
+9803,Pedro Velho
+9902,Pendências
+10009,Pilões
+10108,Poço Branco
+10207,Portalegre
+10256,Porto do Mangue
+10405,Pureza
+10504,Rafael Fernandes
+10603,Rafael Godeiro
+10702,Riacho da Cruz
+10801,Riacho de Santana
+10900,Riachuelo
+8953,Rio do Fogo
+11007,Rodolfo Fernandes
+11106,Ruy Barbosa
+11205,Santa Cruz
+9332,Santa Maria
+11403,Santana do Matos
+11429,Santana do Seridó
+11502,Santo Antônio
+11601,São Bento do Norte
+11700,São Bento do Trairí
+11809,São Fernando
+11908,São Francisco do Oeste
+12005,São Gonçalo do Amarante
+12104,São João do Sabugi
+12203,São José de Mipibu
+12302,São José do Campestre
+12401,São José do Seridó
+12500,São Miguel
+12559,São Miguel do Gostoso
+12609,São Paulo do Potengi
+12708,São Pedro
+12807,São Rafael
+12906,São Tomé
+13003,São Vicente
+13102,Senador Elói de Souza
+13201,Senador Georgino Avelino
+10306,Serra Caiada
+13300,Serra de São Bento
+13359,Serra do Mel
+13409,Serra Negra do Norte
+13508,Serrinha
+13557,Serrinha dos Pintos
+13607,Severiano Melo
+13706,Sítio Novo
+13805,Taboleiro Grande
+13904,Taipu
+14001,Tangará
+14100,Tenente Ananias
+14159,Tenente Laurentino Cruz
+11056,Tibau
+14209,Tibau do Sul
+14308,Timbaúba dos Batistas
+14407,Touros
+14456,Triunfo Potiguar
+14506,Umarizal
+14605,Upanema
+14704,Várzea
+14753,Venha-Ver
+14803,Vera Cruz
+14902,Viçosa
+15008,Vila Flor
+106,Água Branca
+205,Aguiar
+304,Alagoa Grande
+403,Alagoa Nova
+502,Alagoinha
+536,Alcantil
+577,Algodão de Jandaíra
+601,Alhandra
+734,Amparo
+775,Aparecida
+809,Araçagi
+908,Arara
+1005,Araruna
+1104,Areia
+1153,Areia de Baraúnas
+1203,Areial
+1302,Aroeiras
+1351,Assunção
+1401,Baía da Traição
+1500,Bananeiras
+1534,Baraúna
+1609,Barra de Santa Rosa
+1575,Barra de Santana
+1708,Barra de São Miguel
+1807,Bayeux
+1906,Belém
+2003,Belém do Brejo do Cruz
+2052,Bernardino Batista
+2102,Boa Ventura
+2151,Boa Vista
+2201,Bom Jesus
+2300,Bom Sucesso
+2409,Bonito de Santa Fé
+2508,Boqueirão
+2706,Borborema
+2805,Brejo do Cruz
+2904,Brejo dos Santos
+3001,Caaporã
+3100,Cabaceiras
+3209,Cabedelo
+3308,Cachoeira dos Índios
+3407,Cacimba de Areia
+3506,Cacimba de Dentro
+3555,Cacimbas
+3605,Caiçara
+3704,Cajazeiras
+3753,Cajazeirinhas
+3803,Caldas Brandão
+3902,Camalaú
+4009,Campina Grande
+4033,Capim
+4074,Caraúbas
+4108,Carrapateira
+4157,Casserengue
+4207,Catingueira
+4306,Catolé do Rocha
+4355,Caturité
+4405,Conceição
+4504,Condado
+4603,Conde
+4702,Congo
+4801,Coremas
+4850,Coxixola
+4900,Cruz do Espírito Santo
+5006,Cubati
+5105,Cuité
+5238,Cuité de Mamanguape
+5204,Cuitegi
+5279,Curral de Cima
+5303,Curral Velho
+5352,Damião
+5402,Desterro
+5600,Diamante
+5709,Dona Inês
+5808,Duas Estradas
+5907,Emas
+6004,Esperança
+6103,Fagundes
+6202,Frei Martinho
+6251,Gado Bravo
+6301,Guarabira
+6400,Gurinhém
+6509,Gurjão
+6608,Ibiara
+2607,Igaracy
+6707,Imaculada
+6806,Ingá
+6905,Itabaiana
+7002,Itaporanga
+7101,Itapororoca
+7200,Itatuba
+7309,Jacaraú
+7408,Jericó
+7507,João Pessoa
+13653,Joca Claudino
+7606,Juarez Távora
+7705,Juazeirinho
+7804,Junco do Seridó
+7903,Juripiranga
+8000,Juru
+8109,Lagoa
+8208,Lagoa de Dentro
+8307,Lagoa Seca
+8406,Lastro
+8505,Livramento
+8554,Logradouro
+8604,Lucena
+8703,Mãe d'Água
+8802,Malta
+8901,Mamanguape
+9008,Manaíra
+9057,Marcação
+9107,Mari
+9156,Marizópolis
+9206,Massaranduba
+9305,Mataraca
+9339,Matinhas
+9370,Mato Grosso
+9396,Maturéia
+9404,Mogeiro
+9503,Montadas
+9602,Monte Horebe
+9701,Monteiro
+9800,Mulungu
+9909,Natuba
+10006,Nazarezinho
+10105,Nova Floresta
+10204,Nova Olinda
+10303,Nova Palmeira
+10402,Olho d'Água
+10501,Olivedos
+10600,Ouro Velho
+10659,Parari
+10709,Passagem
+10808,Patos
+10907,Paulista
+11004,Pedra Branca
+11103,Pedra Lavrada
+11202,Pedras de Fogo
+12721,Pedro Régis
+11301,Piancó
+11400,Picuí
+11509,Pilar
+11608,Pilões
+11707,Pilõezinhos
+11806,Pirpirituba
+11905,Pitimbu
+12002,Pocinhos
+12036,Poço Dantas
+12077,Poço de José de Moura
+12101,Pombal
+12200,Prata
+12309,Princesa Isabel
+12408,Puxinanã
+12507,Queimadas
+12606,Quixaba
+12705,Remígio
+12747,Riachão
+12754,Riachão do Bacamarte
+12762,Riachão do Poço
+12788,Riacho de Santo Antônio
+12804,Riacho dos Cavalos
+12903,Rio Tinto
+13000,Salgadinho
+13109,Salgado de São Félix
+13158,Santa Cecília
+13208,Santa Cruz
+13307,Santa Helena
+13356,Santa Inês
+13406,Santa Luzia
+13703,Santa Rita
+13802,Santa Teresinha
+13505,Santana de Mangueira
+13604,Santana dos Garrotes
+13851,Santo André
+13927,São Bentinho
+13901,São Bento
+13968,São Domingos
+13943,São Domingos do Cariri
+13984,São Francisco
+14008,São João do Cariri
+700,São João do Rio do Peixe
+14107,São João do Tigre
+14206,São José da Lagoa Tapada
+14305,São José de Caiana
+14404,São José de Espinharas
+14503,São José de Piranhas
+14552,São José de Princesa
+14602,São José do Bonfim
+14651,São José do Brejo do Cruz
+14701,São José do Sabugi
+14800,São José dos Cordeiros
+14453,São José dos Ramos
+14909,São Mamede
+15005,São Miguel de Taipu
+15104,São Sebastião de Lagoa de Roça
+15203,São Sebastião do Umbuzeiro
+15401,São Vicente do Seridó
+15302,Sapé
+15500,Serra Branca
+15609,Serra da Raiz
+15708,Serra Grande
+15807,Serra Redonda
+15906,Serraria
+15930,Sertãozinho
+15971,Sobrado
+16003,Solânea
+16102,Soledade
+16151,Sossêgo
+16201,Sousa
+16300,Sumé
+16409,Tacima
+16508,Taperoá
+16607,Tavares
+16706,Teixeira
+16755,Tenório
+16805,Triunfo
+16904,Uiraúna
+17001,Umbuzeiro
+17100,Várzea
+17209,Vieirópolis
+5501,Vista Serrana
+17407,Zabelê
+54,Abreu e Lima
+104,Afogados da Ingazeira
+203,Afrânio
+302,Agrestina
+401,Água Preta
+500,Águas Belas
+609,Alagoinha
+708,Aliança
+807,Altinho
+906,Amaraji
+1003,Angelim
+1052,Araçoiaba
+1102,Araripina
+1201,Arcoverde
+1300,Barra de Guabiraba
+1409,Barreiros
+1508,Belém de Maria
+1607,Belém do São Francisco
+1706,Belo Jardim
+1805,Betânia
+1904,Bezerros
+2001,Bodocó
+2100,Bom Conselho
+2209,Bom Jardim
+2308,Bonito
+2407,Brejão
+2506,Brejinho
+2605,Brejo da Madre de Deus
+2704,Buenos Aires
+2803,Buíque
+2902,Cabo de Santo Agostinho
+3009,Cabrobó
+3108,Cachoeirinha
+3207,Caetés
+3306,Calçado
+3405,Calumbi
+3454,Camaragibe
+3504,Camocim de São Félix
+3603,Camutanga
+3702,Canhotinho
+3801,Capoeiras
+3900,Carnaíba
+3926,Carnaubeira da Penha
+4007,Carpina
+4106,Caruaru
+4155,Casinhas
+4205,Catende
+4304,Cedro
+4403,Chã de Alegria
+4502,Chã Grande
+4601,Condado
+4700,Correntes
+4809,Cortês
+4908,Cumaru
+5004,Cupira
+5103,Custódia
+5152,Dormentes
+5202,Escada
+5301,Exu
+5400,Feira Nova
+5459,Fernando de Noronha
+5509,Ferreiros
+5608,Flores
+5707,Floresta
+5806,Frei Miguelinho
+5905,Gameleira
+6002,Garanhuns
+6101,Glória do Goitá
+6200,Goiana
+6309,Granito
+6408,Gravatá
+6507,Iati
+6606,Ibimirim
+6705,Ibirajuba
+6804,Igarassu
+6903,Iguaracy
+7604,Ilha de Itamaracá
+7000,Inajá
+7109,Ingazeira
+7208,Ipojuca
+7307,Ipubi
+7406,Itacuruba
+7505,Itaíba
+7653,Itambé
+7703,Itapetim
+7752,Itapissuma
+7802,Itaquitinga
+7901,Jaboatão dos Guararapes
+7950,Jaqueira
+8008,Jataúba
+8057,Jatobá
+8107,João Alfredo
+8206,Joaquim Nabuco
+8255,Jucati
+8305,Jupi
+8404,Jurema
+8503,Lagoa de Itaenga
+8453,Lagoa do Carro
+8602,Lagoa do Ouro
+8701,Lagoa dos Gatos
+8750,Lagoa Grande
+8800,Lajedo
+8909,Limoeiro
+9006,Macaparana
+9105,Machados
+9154,Manari
+9204,Maraial
+9303,Mirandiba
+14303,Moreilândia
+9402,Moreno
+9501,Nazaré da Mata
+9600,Olinda
+9709,Orobó
+9808,Orocó
+9907,Ouricuri
+10004,Palmares
+10103,Palmeirina
+10202,Panelas
+10301,Paranatama
+10400,Parnamirim
+10509,Passira
+10608,Paudalho
+10707,Paulista
+10806,Pedra
+10905,Pesqueira
+11002,Petrolândia
+11101,Petrolina
+11200,Poção
+11309,Pombos
+11408,Primavera
+11507,Quipapá
+11533,Quixaba
+11606,Recife
+11705,Riacho das Almas
+11804,Ribeirão
+11903,Rio Formoso
+12000,Sairé
+12109,Salgadinho
+12208,Salgueiro
+12307,Saloá
+12406,Sanharó
+12455,Santa Cruz
+12471,Santa Cruz da Baixa Verde
+12505,Santa Cruz do Capibaribe
+12554,Santa Filomena
+12604,Santa Maria da Boa Vista
+12703,Santa Maria do Cambucá
+12802,Santa Terezinha
+12901,São Benedito do Sul
+13008,São Bento do Una
+13107,São Caitano
+13206,São João
+13305,São Joaquim do Monte
+13404,São José da Coroa Grande
+13503,São José do Belmonte
+13602,São José do Egito
+13701,São Lourenço da Mata
+13800,São Vicente Férrer
+13909,Serra Talhada
+14006,Serrita
+14105,Sertânia
+14204,Sirinhaém
+14402,Solidão
+14501,Surubim
+14600,Tabira
+14709,Tacaimbó
+14808,Tacaratu
+14857,Tamandaré
+15003,Taquaritinga do Norte
+15102,Terezinha
+15201,Terra Nova
+15300,Timbaúba
+15409,Toritama
+15508,Tracunhaém
+15607,Trindade
+15706,Triunfo
+15805,Tupanatinga
+15904,Tuparetama
+16001,Venturosa
+16100,Verdejante
+16183,Vertente do Lério
+16209,Vertentes
+16308,Vicência
+16407,Vitória de Santo Antão
+16506,Xexéu
+102,Água Branca
+201,Anadia
+300,Arapiraca
+409,Atalaia
+508,Barra de Santo Antônio
+607,Barra de São Miguel
+706,Batalha
+805,Belém
+904,Belo Monte
+1001,Boca da Mata
+1100,Branquinha
+1209,Cacimbinhas
+1308,Cajueiro
+1357,Campestre
+1407,Campo Alegre
+1506,Campo Grande
+1605,Canapi
+1704,Capela
+1803,Carneiros
+1902,Chã Preta
+2009,Coité do Nóia
+2108,Colônia Leopoldina
+2207,Coqueiro Seco
+2306,Coruripe
+2355,Craíbas
+2405,Delmiro Gouveia
+2504,Dois Riachos
+2553,Estrela de Alagoas
+2603,Feira Grande
+2702,Feliz Deserto
+2801,Flexeiras
+2900,Girau do Ponciano
+3007,Ibateguara
+3106,Igaci
+3205,Igreja Nova
+3304,Inhapi
+3403,Jacaré dos Homens
+3502,Jacuípe
+3601,Japaratinga
+3700,Jaramataia
+3759,Jequiá da Praia
+3809,Joaquim Gomes
+3908,Jundiá
+4005,Junqueiro
+4104,Lagoa da Canoa
+4203,Limoeiro de Anadia
+4302,Maceió
+4401,Major Isidoro
+4906,Mar Vermelho
+4500,Maragogi
+4609,Maravilha
+4708,Marechal Deodoro
+4807,Maribondo
+5002,Mata Grande
+5101,Matriz de Camaragibe
+5200,Messias
+5309,Minador do Negrão
+5408,Monteirópolis
+5507,Murici
+5606,Novo Lino
+5705,Olho d'Água das Flores
+5804,Olho d'Água do Casado
+5903,Olho d'Água Grande
+6000,Olivença
+6109,Ouro Branco
+6208,Palestina
+6307,Palmeira dos Índios
+6406,Pão de Açúcar
+6422,Pariconha
+6448,Paripueira
+6505,Passo de Camaragibe
+6604,Paulo Jacinto
+6703,Penedo
+6802,Piaçabuçu
+6901,Pilar
+7008,Pindoba
+7107,Piranhas
+7206,Poço das Trincheiras
+7305,Porto Calvo
+7404,Porto de Pedras
+7503,Porto Real do Colégio
+7602,Quebrangulo
+7701,Rio Largo
+7800,Roteiro
+7909,Santa Luzia do Norte
+8006,Santana do Ipanema
+8105,Santana do Mundaú
+8204,São Brás
+8303,São José da Laje
+8402,São José da Tapera
+8501,São Luís do Quitunde
+8600,São Miguel dos Campos
+8709,São Miguel dos Milagres
+8808,São Sebastião
+8907,Satuba
+8956,Senador Rui Palmeira
+9004,Tanque d'Arca
+9103,Taquarana
+9152,Teotônio Vilela
+9202,Traipu
+9301,União dos Palmares
+9400,Viçosa
+100,Amparo do São Francisco
+209,Aquidabã
+308,Aracaju
+407,Arauá
+506,Areia Branca
+605,Barra dos Coqueiros
+670,Boquim
+704,Brejo Grande
+1009,Campo do Brito
+1108,Canhoba
+1207,Canindé de São Francisco
+1306,Capela
+1405,Carira
+1504,Carmópolis
+1603,Cedro de São João
+1702,Cristinápolis
+1900,Cumbe
+2007,Divina Pastora
+2106,Estância
+2205,Feira Nova
+2304,Frei Paulo
+2403,Gararu
+2502,General Maynard
+2601,Gracho Cardoso
+2700,Ilha das Flores
+2809,Indiaroba
+2908,Itabaiana
+3005,Itabaianinha
+3104,Itabi
+3203,Itaporanga d'Ajuda
+3302,Japaratuba
+3401,Japoatã
+3500,Lagarto
+3609,Laranjeiras
+3708,Macambira
+3807,Malhada dos Bois
+3906,Malhador
+4003,Maruim
+4102,Moita Bonita
+4201,Monte Alegre de Sergipe
+4300,Muribeca
+4409,Neópolis
+4458,Nossa Senhora Aparecida
+4508,Nossa Senhora da Glória
+4607,Nossa Senhora das Dores
+4706,Nossa Senhora de Lourdes
+4805,Nossa Senhora do Socorro
+4904,Pacatuba
+5000,Pedra Mole
+5109,Pedrinhas
+5208,Pinhão
+5307,Pirambu
+5406,Poço Redondo
+5505,Poço Verde
+5604,Porto da Folha
+5703,Propriá
+5802,Riachão do Dantas
+5901,Riachuelo
+6008,Ribeirópolis
+6107,Rosário do Catete
+6206,Salgado
+6305,Santa Luzia do Itanhy
+6503,Santa Rosa de Lima
+6404,Santana do São Francisco
+6602,Santo Amaro das Brotas
+6701,São Cristóvão
+6800,São Domingos
+6909,São Francisco
+7006,São Miguel do Aleixo
+7105,Simão Dias
+7204,Siriri
+7303,Telha
+7402,Tobias Barreto
+7501,Tomar do Geru
+7600,Umbaúba
+108,Abaíra
+207,Abaré
+306,Acajutiba
+355,Adustina
+405,Água Fria
+603,Aiquara
+702,Alagoinhas
+801,Alcobaça
+900,Almadina
+1007,Amargosa
+1106,Amélia Rodrigues
+1155,América Dourada
+1205,Anagé
+1304,Andaraí
+1353,Andorinha
+1403,Angical
+1502,Anguera
+1601,Antas
+1700,Antônio Cardoso
+1809,Antônio Gonçalves
+1908,Aporá
+1957,Apuarema
+2054,Araçás
+2005,Aracatu
+2104,Araci
+2203,Aramari
+2252,Arataca
+2302,Aratuípe
+2401,Aurelino Leal
+2500,Baianópolis
+2609,Baixa Grande
+2658,Banzaê
+2708,Barra
+2807,Barra da Estiva
+2906,Barra do Choça
+3003,Barra do Mendes
+3102,Barra do Rocha
+3201,Barreiras
+3235,Barro Alto
+3300,Barro Preto
+3276,Barrocas
+3409,Belmonte
+3508,Belo Campo
+3607,Biritinga
+3706,Boa Nova
+3805,Boa Vista do Tupim
+3904,Bom Jesus da Lapa
+3953,Bom Jesus da Serra
+4001,Boninal
+4050,Bonito
+4100,Boquira
+4209,Botuporã
+4308,Brejões
+4407,Brejolândia
+4506,Brotas de Macaúbas
+4605,Brumado
+4704,Buerarema
+4753,Buritirama
+4803,Caatiba
+4852,Cabaceiras do Paraguaçu
+4902,Cachoeira
+5008,Caculé
+5107,Caém
+5156,Caetanos
+5206,Caetité
+5305,Cafarnaum
+5404,Cairu
+5503,Caldeirão Grande
+5602,Camacan
+5701,Camaçari
+5800,Camamu
+5909,Campo Alegre de Lourdes
+6006,Campo Formoso
+6105,Canápolis
+6204,Canarana
+6303,Canavieiras
+6402,Candeal
+6501,Candeias
+6600,Candiba
+6709,Cândido Sales
+6808,Cansanção
+6824,Canudos
+6857,Capela do Alto Alegre
+6873,Capim Grosso
+6899,Caraíbas
+6907,Caravelas
+7004,Cardeal da Silva
+7103,Carinhanha
+7202,Casa Nova
+7301,Castro Alves
+7400,Catolândia
+7509,Catu
+7558,Caturama
+7608,Central
+7707,Chorrochó
+7806,Cícero Dantas
+7905,Cipó
+8002,Coaraci
+8101,Cocos
+8200,Conceição da Feira
+8309,Conceição do Almeida
+8408,Conceição do Coité
+8507,Conceição do Jacuípe
+8606,Conde
+8705,Condeúba
+8804,Contendas do Sincorá
+8903,Coração de Maria
+9000,Cordeiros
+9109,Coribe
+9208,Coronel João Sá
+9307,Correntina
+9406,Cotegipe
+9505,Cravolândia
+9604,Crisópolis
+9703,Cristópolis
+9802,Cruz das Almas
+9901,Curaçá
+10008,Dário Meira
+10057,Dias d'Ávila
+10107,Dom Basílio
+10206,Dom Macedo Costa
+10305,Elísio Medrado
+10404,Encruzilhada
+10503,Entre Rios
+504,Érico Cardoso
+10602,Esplanada
+10701,Euclides da Cunha
+10727,Eunápolis
+10750,Fátima
+10776,Feira da Mata
+10800,Feira de Santana
+10859,Filadélfia
+10909,Firmino Alves
+11006,Floresta Azul
+11105,Formosa do Rio Preto
+11204,Gandu
+11253,Gavião
+11303,Gentio do Ouro
+11402,Glória
+11501,Gongogi
+11600,Governador Mangabeira
+11659,Guajeru
+11709,Guanambi
+11808,Guaratinga
+11857,Heliópolis
+11907,Iaçu
+12004,Ibiassucê
+12103,Ibicaraí
+12202,Ibicoara
+12301,Ibicuí
+12400,Ibipeba
+12509,Ibipitanga
+12608,Ibiquera
+12707,Ibirapitanga
+12806,Ibirapuã
+12905,Ibirataia
+13002,Ibitiara
+13101,Ibititá
+13200,Ibotirama
+13309,Ichu
+13408,Igaporã
+13457,Igrapiúna
+13507,Iguaí
+13606,Ilhéus
+13705,Inhambupe
+13804,Ipecaetá
+13903,Ipiaú
+14000,Ipirá
+14109,Ipupiara
+14208,Irajuba
+14307,Iramaia
+14406,Iraquara
+14505,Irará
+14604,Irecê
+14653,Itabela
+14703,Itaberaba
+14802,Itabuna
+14901,Itacaré
+15007,Itaeté
+15106,Itagi
+15205,Itagibá
+15304,Itagimirim
+15353,Itaguaçu da Bahia
+15403,Itaju do Colônia
+15502,Itajuípe
+15601,Itamaraju
+15700,Itamari
+15809,Itambé
+15908,Itanagra
+16005,Itanhém
+16104,Itaparica
+16203,Itapé
+16302,Itapebi
+16401,Itapetinga
+16500,Itapicuru
+16609,Itapitanga
+16708,Itaquara
+16807,Itarantim
+16856,Itatim
+16906,Itiruçu
+17003,Itiúba
+17102,Itororó
+17201,Ituaçu
+17300,Ituberá
+17334,Iuiu
+17359,Jaborandi
+17409,Jacaraci
+17508,Jacobina
+17607,Jaguaquara
+17706,Jaguarari
+17805,Jaguaripe
+17904,Jandaíra
+18001,Jequié
+18100,Jeremoabo
+18209,Jiquiriçá
+18308,Jitaúna
+18357,João Dourado
+18407,Juazeiro
+18456,Jucuruçu
+18506,Jussara
+18555,Jussari
+18605,Jussiape
+18704,Lafaiete Coutinho
+18753,Lagoa Real
+18803,Laje
+18902,Lajedão
+19009,Lajedinho
+19058,Lajedo do Tabocal
+19108,Lamarão
+19157,Lapão
+19207,Lauro de Freitas
+19306,Lençóis
+19405,Licínio de Almeida
+19504,Livramento de Nossa Senhora
+19553,Luís Eduardo Magalhães
+19603,Macajuba
+19702,Macarani
+19801,Macaúbas
+19900,Macururé
+19926,Madre de Deus
+19959,Maetinga
+20007,Maiquinique
+20106,Mairi
+20205,Malhada
+20304,Malhada de Pedras
+20403,Manoel Vitorino
+20452,Mansidão
+20502,Maracás
+20601,Maragogipe
+20700,Maraú
+20809,Marcionílio Souza
+20908,Mascote
+21005,Mata de São João
+21054,Matina
+21104,Medeiros Neto
+21203,Miguel Calmon
+21302,Milagres
+21401,Mirangaba
+21450,Mirante
+21500,Monte Santo
+21609,Morpará
+21708,Morro do Chapéu
+21807,Mortugaba
+21906,Mucugê
+22003,Mucuri
+22052,Mulungu do Morro
+22102,Mundo Novo
+22201,Muniz Ferreira
+22250,Muquém do São Francisco
+22300,Muritiba
+22409,Mutuípe
+22508,Nazaré
+22607,Nilo Peçanha
+22656,Nordestina
+22706,Nova Canaã
+22730,Nova Fátima
+22755,Nova Ibiá
+22805,Nova Itarana
+22854,Nova Redenção
+22904,Nova Soure
+23001,Nova Viçosa
+23035,Novo Horizonte
+23050,Novo Triunfo
+23100,Olindina
+23209,Oliveira dos Brejinhos
+23308,Ouriçangas
+23357,Ourolândia
+23407,Palmas de Monte Alto
+23506,Palmeiras
+23605,Paramirim
+23704,Paratinga
+23803,Paripiranga
+23902,Pau Brasil
+24009,Paulo Afonso
+24058,Pé de Serra
+24108,Pedrão
+24207,Pedro Alexandre
+24306,Piatã
+24405,Pilão Arcado
+24504,Pindaí
+24603,Pindobaçu
+24652,Pintadas
+24678,Piraí do Norte
+24702,Piripá
+24801,Piritiba
+24900,Planaltino
+25006,Planalto
+25105,Poções
+25204,Pojuca
+25253,Ponto Novo
+25303,Porto Seguro
+25402,Potiraguá
+25501,Prado
+25600,Presidente Dutra
+25709,Presidente Jânio Quadros
+25758,Presidente Tancredo Neves
+25808,Queimadas
+25907,Quijingue
+25931,Quixabeira
+25956,Rafael Jambeiro
+26004,Remanso
+26103,Retirolândia
+26202,Riachão das Neves
+26301,Riachão do Jacuípe
+26400,Riacho de Santana
+26509,Ribeira do Amparo
+26608,Ribeira do Pombal
+26657,Ribeirão do Largo
+26707,Rio de Contas
+26806,Rio do Antônio
+26905,Rio do Pires
+27002,Rio Real
+27101,Rodelas
+27200,Ruy Barbosa
+27309,Salinas da Margarida
+27408,Salvador
+27507,Santa Bárbara
+27606,Santa Brígida
+27705,Santa Cruz Cabrália
+27804,Santa Cruz da Vitória
+27903,Santa Inês
+28059,Santa Luzia
+28109,Santa Maria da Vitória
+28406,Santa Rita de Cássia
+28505,Santa Terezinha
+28000,Santaluz
+28208,Santana
+28307,Santanópolis
+28604,Santo Amaro
+28703,Santo Antônio de Jesus
+28802,Santo Estêvão
+28901,São Desidério
+28950,São Domingos
+29107,São Felipe
+29008,São Félix
+29057,São Félix do Coribe
+29206,São Francisco do Conde
+29255,São Gabriel
+29305,São Gonçalo dos Campos
+29354,São José da Vitória
+29370,São José do Jacuípe
+29404,São Miguel das Matas
+29503,São Sebastião do Passé
+29602,Sapeaçu
+29701,Sátiro Dias
+29750,Saubara
+29800,Saúde
+29909,Seabra
+30006,Sebastião Laranjeiras
+30105,Senhor do Bonfim
+30204,Sento Sé
+30154,Serra do Ramalho
+30303,Serra Dourada
+30402,Serra Preta
+30501,Serrinha
+30600,Serrolândia
+30709,Simões Filho
+30758,Sítio do Mato
+30766,Sítio do Quinto
+30774,Sobradinho
+30808,Souto Soares
+30907,Tabocas do Brejo Velho
+31004,Tanhaçu
+31053,Tanque Novo
+31103,Tanquinho
+31202,Taperoá
+31301,Tapiramutá
+31350,Teixeira de Freitas
+31400,Teodoro Sampaio
+31509,Teofilândia
+31608,Teolândia
+31707,Terra Nova
+31806,Tremedal
+31905,Tucano
+32002,Uauá
+32101,Ubaíra
+32200,Ubaitaba
+32309,Ubatã
+32408,Uibaí
+32457,Umburanas
+32507,Una
+32606,Urandi
+32705,Uruçuca
+32804,Utinga
+32903,Valença
+33000,Valente
+33059,Várzea da Roça
+33109,Várzea do Poço
+33158,Várzea Nova
+33174,Varzedo
+33208,Vera Cruz
+33257,Vereda
+33307,Vitória da Conquista
+33406,Wagner
+33455,Wanderley
+33505,Wenceslau Guimarães
+33604,Xique-Xique
+104,Abadia dos Dourados
+203,Abaeté
+302,Abre Campo
+401,Acaiaca
+500,Açucena
+609,Água Boa
+708,Água Comprida
+807,Aguanil
+906,Águas Formosas
+1003,Águas Vermelhas
+1102,Aimorés
+1201,Aiuruoca
+1300,Alagoa
+1409,Albertina
+1508,Além Paraíba
+1607,Alfenas
+1631,Alfredo Vasconcelos
+1706,Almenara
+1805,Alpercata
+1904,Alpinópolis
+2001,Alterosa
+2050,Alto Caparaó
+53509,Alto Jequitibá
+2100,Alto Rio Doce
+2209,Alvarenga
+2308,Alvinópolis
+2407,Alvorada de Minas
+2506,Amparo do Serra
+2605,Andradas
+2803,Andrelândia
+2852,Angelândia
+2902,Antônio Carlos
+3009,Antônio Dias
+3108,Antônio Prado de Minas
+3207,Araçaí
+3306,Aracitaba
+3405,Araçuaí
+3504,Araguari
+3603,Arantina
+3702,Araponga
+3751,Araporã
+3801,Arapuá
+3900,Araújos
+4007,Araxá
+4106,Arceburgo
+4205,Arcos
+4304,Areado
+4403,Argirita
+4452,Aricanduva
+4502,Arinos
+4601,Astolfo Dutra
+4700,Ataléia
+4809,Augusto de Lima
+4908,Baependi
+5004,Baldim
+5103,Bambuí
+5202,Bandeira
+5301,Bandeira do Sul
+5400,Barão de Cocais
+5509,Barão de Monte Alto
+5608,Barbacena
+5707,Barra Longa
+5905,Barroso
+6002,Bela Vista de Minas
+6101,Belmiro Braga
+6200,Belo Horizonte
+6309,Belo Oriente
+6408,Belo Vale
+6507,Berilo
+6655,Berizal
+6606,Bertópolis
+6705,Betim
+6804,Bias Fortes
+6903,Bicas
+7000,Biquinhas
+7109,Boa Esperança
+7208,Bocaina de Minas
+7307,Bocaiúva
+7406,Bom Despacho
+7505,Bom Jardim de Minas
+7604,Bom Jesus da Penha
+7703,Bom Jesus do Amparo
+7802,Bom Jesus do Galho
+7901,Bom Repouso
+8008,Bom Sucesso
+8107,Bonfim
+8206,Bonfinópolis de Minas
+8255,Bonito de Minas
+8305,Borda da Mata
+8404,Botelhos
+8503,Botumirim
+8701,Brás Pires
+8552,Brasilândia de Minas
+8602,Brasília de Minas
+8800,Braúnas
+8909,Brazópolis
+9006,Brumadinho
+9105,Bueno Brandão
+9204,Buenópolis
+9253,Bugre
+9303,Buritis
+9402,Buritizeiro
+9451,Cabeceira Grande
+9501,Cabo Verde
+9600,Cachoeira da Prata
+9709,Cachoeira de Minas
+2704,Cachoeira de Pajeú
+9808,Cachoeira Dourada
+9907,Caetanópolis
+10004,Caeté
+10103,Caiana
+10202,Cajuri
+10301,Caldas
+10400,Camacho
+10509,Camanducaia
+10608,Cambuí
+10707,Cambuquira
+10806,Campanário
+10905,Campanha
+11002,Campestre
+11101,Campina Verde
+11150,Campo Azul
+11200,Campo Belo
+11309,Campo do Meio
+11408,Campo Florido
+11507,Campos Altos
+11606,Campos Gerais
+11903,Cana Verde
+11705,Canaã
+11804,Canápolis
+12000,Candeias
+12059,Cantagalo
+12109,Caparaó
+12208,Capela Nova
+12307,Capelinha
+12406,Capetinga
+12505,Capim Branco
+12604,Capinópolis
+12653,Capitão Andrade
+12703,Capitão Enéas
+12802,Capitólio
+12901,Caputira
+13008,Caraí
+13107,Caranaíba
+13206,Carandaí
+13305,Carangola
+13404,Caratinga
+13503,Carbonita
+13602,Careaçu
+13701,Carlos Chagas
+13800,Carmésia
+13909,Carmo da Cachoeira
+14006,Carmo da Mata
+14105,Carmo de Minas
+14204,Carmo do Cajuru
+14303,Carmo do Paranaíba
+14402,Carmo do Rio Claro
+14501,Carmópolis de Minas
+14550,Carneirinho
+14600,Carrancas
+14709,Carvalhópolis
+14808,Carvalhos
+14907,Casa Grande
+15003,Cascalho Rico
+15102,Cássia
+15300,Cataguases
+15359,Catas Altas
+15409,Catas Altas da Noruega
+15458,Catuji
+15474,Catuti
+15508,Caxambu
+15607,Cedro do Abaeté
+15706,Central de Minas
+15805,Centralina
+15904,Chácara
+16001,Chalé
+16100,Chapada do Norte
+16159,Chapada Gaúcha
+16209,Chiador
+16308,Cipotânea
+16407,Claraval
+16506,Claro dos Poções
+16605,Cláudio
+16704,Coimbra
+16803,Coluna
+16902,Comendador Gomes
+17009,Comercinho
+17108,Conceição da Aparecida
+15201,Conceição da Barra de Minas
+17306,Conceição das Alagoas
+17207,Conceição das Pedras
+17405,Conceição de Ipanema
+17504,Conceição do Mato Dentro
+17603,Conceição do Pará
+17702,Conceição do Rio Verde
+17801,Conceição dos Ouros
+17836,Cônego Marinho
+17876,Confins
+17900,Congonhal
+18007,Congonhas
+18106,Congonhas do Norte
+18205,Conquista
+18304,Conselheiro Lafaiete
+18403,Conselheiro Pena
+18502,Consolação
+18601,Contagem
+18700,Coqueiral
+18809,Coração de Jesus
+18908,Cordisburgo
+19005,Cordislândia
+19104,Corinto
+19203,Coroaci
+19302,Coromandel
+19401,Coronel Fabriciano
+19500,Coronel Murta
+19609,Coronel Pacheco
+19708,Coronel Xavier Chaves
+19807,Córrego Danta
+19906,Córrego do Bom Jesus
+19955,Córrego Fundo
+20003,Córrego Novo
+20102,Couto de Magalhães de Minas
+20151,Crisólita
+20201,Cristais
+20300,Cristália
+20409,Cristiano Otoni
+20508,Cristina
+20607,Crucilândia
+20706,Cruzeiro da Fortaleza
+20805,Cruzília
+20839,Cuparaque
+20870,Curral de Dentro
+20904,Curvelo
+21001,Datas
+21100,Delfim Moreira
+21209,Delfinópolis
+21258,Delta
+21308,Descoberto
+21407,Desterro de Entre Rios
+21506,Desterro do Melo
+21605,Diamantina
+21704,Diogo de Vasconcelos
+21803,Dionísio
+21902,Divinésia
+22009,Divino
+22108,Divino das Laranjeiras
+22207,Divinolândia de Minas
+22306,Divinópolis
+22355,Divisa Alegre
+22405,Divisa Nova
+22454,Divisópolis
+22470,Dom Bosco
+22504,Dom Cavati
+22603,Dom Joaquim
+22702,Dom Silvério
+22801,Dom Viçoso
+22900,Dona Euzébia
+23007,Dores de Campos
+23106,Dores de Guanhães
+23205,Dores do Indaiá
+23304,Dores do Turvo
+23403,Doresópolis
+23502,Douradoquara
+23528,Durandé
+23601,Elói Mendes
+23700,Engenheiro Caldas
+23809,Engenheiro Navarro
+23858,Entre Folhas
+23908,Entre Rios de Minas
+24005,Ervália
+24104,Esmeraldas
+24203,Espera Feliz
+24302,Espinosa
+24401,Espírito Santo do Dourado
+24500,Estiva
+24609,Estrela Dalva
+24708,Estrela do Indaiá
+24807,Estrela do Sul
+24906,Eugenópolis
+25002,Ewbank da Câmara
+25101,Extrema
+25200,Fama
+25309,Faria Lemos
+25408,Felício dos Santos
+25606,Felisburgo
+25705,Felixlândia
+25804,Fernandes Tourinho
+25903,Ferros
+25952,Fervedouro
+26000,Florestal
+26109,Formiga
+26208,Formoso
+26307,Fortaleza de Minas
+26406,Fortuna de Minas
+26505,Francisco Badaró
+26604,Francisco Dumont
+26703,Francisco Sá
+26752,Franciscópolis
+26802,Frei Gaspar
+26901,Frei Inocêncio
+26950,Frei Lagonegro
+27008,Fronteira
+27057,Fronteira dos Vales
+27073,Fruta de Leite
+27107,Frutal
+27206,Funilândia
+27305,Galiléia
+27339,Gameleiras
+27354,Glaucilândia
+27370,Goiabeira
+27388,Goianá
+27404,Gonçalves
+27503,Gonzaga
+27602,Gouveia
+27701,Governador Valadares
+27800,Grão Mogol
+27909,Grupiara
+28006,Guanhães
+28105,Guapé
+28204,Guaraciaba
+28253,Guaraciama
+28303,Guaranésia
+28402,Guarani
+28501,Guarará
+28600,Guarda-Mor
+28709,Guaxupé
+28808,Guidoval
+28907,Guimarânia
+29004,Guiricema
+29103,Gurinhatã
+29202,Heliodora
+29301,Iapu
+29400,Ibertioga
+29509,Ibiá
+29608,Ibiaí
+29657,Ibiracatu
+29707,Ibiraci
+29806,Ibirité
+29905,Ibitiúra de Minas
+30002,Ibituruna
+30051,Icaraí de Minas
+30101,Igarapé
+30200,Igaratinga
+30309,Iguatama
+30408,Ijaci
+30507,Ilicínea
+30556,Imbé de Minas
+30606,Inconfidentes
+30655,Indaiabira
+30705,Indianópolis
+30804,Ingaí
+30903,Inhapim
+31000,Inhaúma
+31109,Inimutaba
+31158,Ipaba
+31208,Ipanema
+31307,Ipatinga
+31406,Ipiaçu
+31505,Ipuiúna
+31604,Iraí de Minas
+31703,Itabira
+31802,Itabirinha
+31901,Itabirito
+32008,Itacambira
+32107,Itacarambi
+32206,Itaguara
+32305,Itaipé
+32404,Itajubá
+32503,Itamarandiba
+32602,Itamarati de Minas
+32701,Itambacuri
+32800,Itambé do Mato Dentro
+32909,Itamogi
+33006,Itamonte
+33105,Itanhandu
+33204,Itanhomi
+33303,Itaobim
+33402,Itapagipe
+33501,Itapecerica
+33600,Itapeva
+33709,Itatiaiuçu
+33758,Itaú de Minas
+33808,Itaúna
+33907,Itaverava
+34004,Itinga
+34103,Itueta
+34202,Ituiutaba
+34301,Itumirim
+34400,Iturama
+34509,Itutinga
+34608,Jaboticatubas
+34707,Jacinto
+34806,Jacuí
+34905,Jacutinga
+35001,Jaguaraçu
+35050,Jaíba
+35076,Jampruca
+35100,Janaúba
+35209,Januária
+35308,Japaraíba
+35357,Japonvar
+35407,Jeceaba
+35456,Jenipapo de Minas
+35506,Jequeri
+35605,Jequitaí
+35704,Jequitibá
+35803,Jequitinhonha
+35902,Jesuânia
+36009,Joaíma
+36108,Joanésia
+36207,João Monlevade
+36306,João Pinheiro
+36405,Joaquim Felício
+36504,Jordânia
+36520,José Gonçalves de Minas
+36553,José Raydan
+36579,Josenópolis
+36652,Juatuba
+36702,Juiz de Fora
+36801,Juramento
+36900,Juruaia
+36959,Juvenília
+37007,Ladainha
+37106,Lagamar
+37205,Lagoa da Prata
+37304,Lagoa dos Patos
+37403,Lagoa Dourada
+37502,Lagoa Formosa
+37536,Lagoa Grande
+37601,Lagoa Santa
+37700,Lajinha
+37809,Lambari
+37908,Lamim
+38005,Laranjal
+38104,Lassance
+38203,Lavras
+38302,Leandro Ferreira
+38351,Leme do Prado
+38401,Leopoldina
+38500,Liberdade
+38609,Lima Duarte
+38625,Limeira do Oeste
+38658,Lontra
+38674,Luisburgo
+38682,Luislândia
+38708,Luminárias
+38807,Luz
+38906,Machacalis
+39003,Machado
+39102,Madre de Deus de Minas
+39201,Malacacheta
+39250,Mamonas
+39300,Manga
+39409,Manhuaçu
+39508,Manhumirim
+39607,Mantena
+39805,Mar de Espanha
+39706,Maravilhas
+39904,Maria da Fé
+40001,Mariana
+40100,Marilac
+40159,Mário Campos
+40209,Maripá de Minas
+40308,Marliéria
+40407,Marmelópolis
+40506,Martinho Campos
+40530,Martins Soares
+40555,Mata Verde
+40605,Materlândia
+40704,Mateus Leme
+71501,Mathias Lobato
+40803,Matias Barbosa
+40852,Matias Cardoso
+40902,Matipó
+41009,Mato Verde
+41108,Matozinhos
+41207,Matutina
+41306,Medeiros
+41405,Medina
+41504,Mendes Pimentel
+41603,Mercês
+41702,Mesquita
+41801,Minas Novas
+41900,Minduri
+42007,Mirabela
+42106,Miradouro
+42205,Miraí
+42254,Miravânia
+42304,Moeda
+42403,Moema
+42502,Monjolos
+42601,Monsenhor Paulo
+42700,Montalvânia
+42809,Monte Alegre de Minas
+42908,Monte Azul
+43005,Monte Belo
+43104,Monte Carmelo
+43153,Monte Formoso
+43203,Monte Santo de Minas
+43401,Monte Sião
+43302,Montes Claros
+43450,Montezuma
+43500,Morada Nova de Minas
+43609,Morro da Garça
+43708,Morro do Pilar
+43807,Munhoz
+43906,Muriaé
+44003,Mutum
+44102,Muzambinho
+44201,Nacip Raydan
+44300,Nanuque
+44359,Naque
+44375,Natalândia
+44409,Natércia
+44508,Nazareno
+44607,Nepomuceno
+44656,Ninheira
+44672,Nova Belém
+44706,Nova Era
+44805,Nova Lima
+44904,Nova Módica
+45000,Nova Ponte
+45059,Nova Porteirinha
+45109,Nova Resende
+45208,Nova Serrana
+36603,Nova União
+45307,Novo Cruzeiro
+45356,Novo Oriente de Minas
+45372,Novorizonte
+45406,Olaria
+45455,Olhos-d'Água
+45505,Olímpio Noronha
+45604,Oliveira
+45703,Oliveira Fortes
+45802,Onça de Pitangui
+45851,Oratórios
+45877,Orizânia
+45901,Ouro Branco
+46008,Ouro Fino
+46107,Ouro Preto
+46206,Ouro Verde de Minas
+46255,Padre Carvalho
+46305,Padre Paraíso
+46552,Pai Pedro
+46404,Paineiras
+46503,Pains
+46602,Paiva
+46701,Palma
+46750,Palmópolis
+46909,Papagaios
+47105,Pará de Minas
+47006,Paracatu
+47204,Paraguaçu
+47303,Paraisópolis
+47402,Paraopeba
+47600,Passa Quatro
+47709,Passa Tempo
+47808,Passa Vinte
+47501,Passabém
+47907,Passos
+47956,Patis
+48004,Patos de Minas
+48103,Patrocínio
+48202,Patrocínio do Muriaé
+48301,Paula Cândido
+48400,Paulistas
+48509,Pavão
+48608,Peçanha
+48707,Pedra Azul
+48756,Pedra Bonita
+48806,Pedra do Anta
+48905,Pedra do Indaiá
+49002,Pedra Dourada
+49101,Pedralva
+49150,Pedras de Maria da Cruz
+49200,Pedrinópolis
+49309,Pedro Leopoldo
+49408,Pedro Teixeira
+49507,Pequeri
+49606,Pequi
+49705,Perdigão
+49804,Perdizes
+49903,Perdões
+49952,Periquito
+50000,Pescador
+50109,Piau
+50158,Piedade de Caratinga
+50208,Piedade de Ponte Nova
+50307,Piedade do Rio Grande
+50406,Piedade dos Gerais
+50505,Pimenta
+50539,Pingo-d'Água
+50570,Pintópolis
+50604,Piracema
+50703,Pirajuba
+50802,Piranga
+50901,Piranguçu
+51008,Piranguinho
+51107,Pirapetinga
+51206,Pirapora
+51305,Piraúba
+51404,Pitangui
+51503,Piumhi
+51602,Planura
+51701,Poço Fundo
+51800,Poços de Caldas
+51909,Pocrane
+52006,Pompéu
+52105,Ponte Nova
+52131,Ponto Chique
+52170,Ponto dos Volantes
+52204,Porteirinha
+52303,Porto Firme
+52402,Poté
+52501,Pouso Alegre
+52600,Pouso Alto
+52709,Prados
+52808,Prata
+52907,Pratápolis
+53004,Pratinha
+53103,Presidente Bernardes
+53202,Presidente Juscelino
+53301,Presidente Kubitschek
+53400,Presidente Olegário
+53608,Prudente de Morais
+53707,Quartel Geral
+53806,Queluzito
+53905,Raposos
+54002,Raul Soares
+54101,Recreio
+54150,Reduto
+54200,Resende Costa
+54309,Resplendor
+54408,Ressaquinha
+54457,Riachinho
+54507,Riacho dos Machados
+54606,Ribeirão das Neves
+54705,Ribeirão Vermelho
+54804,Rio Acima
+54903,Rio Casca
+55108,Rio do Prado
+55009,Rio Doce
+55207,Rio Espera
+55306,Rio Manso
+55405,Rio Novo
+55504,Rio Paranaíba
+55603,Rio Pardo de Minas
+55702,Rio Piracicaba
+55801,Rio Pomba
+55900,Rio Preto
+56007,Rio Vermelho
+56106,Ritápolis
+56205,Rochedo de Minas
+56304,Rodeiro
+56403,Romaria
+56452,Rosário da Limeira
+56502,Rubelita
+56601,Rubim
+56700,Sabará
+56809,Sabinópolis
+56908,Sacramento
+57005,Salinas
+57104,Salto da Divisa
+57203,Santa Bárbara
+57252,Santa Bárbara do Leste
+57278,Santa Bárbara do Monte Verde
+57302,Santa Bárbara do Tugúrio
+57336,Santa Cruz de Minas
+57377,Santa Cruz de Salinas
+57401,Santa Cruz do Escalvado
+57500,Santa Efigênia de Minas
+57609,Santa Fé de Minas
+57658,Santa Helena de Minas
+57708,Santa Juliana
+57807,Santa Luzia
+57906,Santa Margarida
+58003,Santa Maria de Itabira
+58102,Santa Maria do Salto
+58201,Santa Maria do Suaçuí
+59209,Santa Rita de Caldas
+59407,Santa Rita de Ibitipoca
+59308,Santa Rita de Jacutinga
+59357,Santa Rita de Minas
+59506,Santa Rita do Itueto
+59605,Santa Rita do Sapucaí
+59704,Santa Rosa da Serra
+59803,Santa Vitória
+58300,Santana da Vargem
+58409,Santana de Cataguases
+58508,Santana de Pirapama
+58607,Santana do Deserto
+58706,Santana do Garambéu
+58805,Santana do Jacaré
+58904,Santana do Manhuaçu
+58953,Santana do Paraíso
+59001,Santana do Riacho
+59100,Santana dos Montes
+59902,Santo Antônio do Amparo
+60009,Santo Antônio do Aventureiro
+60108,Santo Antônio do Grama
+60207,Santo Antônio do Itambé
+60306,Santo Antônio do Jacinto
+60405,Santo Antônio do Monte
+60454,Santo Antônio do Retiro
+60504,Santo Antônio do Rio Abaixo
+60603,Santo Hipólito
+60702,Santos Dumont
+60801,São Bento Abade
+60900,São Brás do Suaçuí
+60959,São Domingos das Dores
+61007,São Domingos do Prata
+61056,São Félix de Minas
+61106,São Francisco
+61205,São Francisco de Paula
+61304,São Francisco de Sales
+61403,São Francisco do Glória
+61502,São Geraldo
+61601,São Geraldo da Piedade
+61650,São Geraldo do Baixio
+61700,São Gonçalo do Abaeté
+61809,São Gonçalo do Pará
+61908,São Gonçalo do Rio Abaixo
+25507,São Gonçalo do Rio Preto
+62005,São Gonçalo do Sapucaí
+62104,São Gotardo
+62203,São João Batista do Glória
+62252,São João da Lagoa
+62302,São João da Mata
+62401,São João da Ponte
+62450,São João das Missões
+62500,São João del Rei
+62559,São João do Manhuaçu
+62575,São João do Manteninha
+62609,São João do Oriente
+62658,São João do Pacuí
+62708,São João do Paraíso
+62807,São João Evangelista
+62906,São João Nepomuceno
+62922,São Joaquim de Bicas
+62948,São José da Barra
+62955,São José da Lapa
+63003,São José da Safira
+63102,São José da Varginha
+63201,São José do Alegre
+63300,São José do Divino
+63409,São José do Goiabal
+63508,São José do Jacuri
+63607,São José do Mantimento
+63706,São Lourenço
+63805,São Miguel do Anta
+63904,São Pedro da União
+64100,São Pedro do Suaçuí
+64001,São Pedro dos Ferros
+64209,São Romão
+64308,São Roque de Minas
+64407,São Sebastião da Bela Vista
+64431,São Sebastião da Vargem Alegre
+64472,São Sebastião do Anta
+64506,São Sebastião do Maranhão
+64605,São Sebastião do Oeste
+64704,São Sebastião do Paraíso
+64803,São Sebastião do Rio Preto
+64902,São Sebastião do Rio Verde
+65008,São Tiago
+65107,São Tomás de Aquino
+65206,São Tomé das Letras
+65305,São Vicente de Minas
+65404,Sapucaí-Mirim
+65503,Sardoá
+65537,Sarzedo
+65560,Sem-Peixe
+65578,Senador Amaral
+65602,Senador Cortes
+65701,Senador Firmino
+65800,Senador José Bento
+65909,Senador Modestino Gonçalves
+66006,Senhora de Oliveira
+66105,Senhora do Porto
+66204,Senhora dos Remédios
+66303,Sericita
+66402,Seritinga
+66501,Serra Azul de Minas
+66600,Serra da Saudade
+66808,Serra do Salitre
+66709,Serra dos Aimorés
+66907,Serrania
+66956,Serranópolis de Minas
+67004,Serranos
+67103,Serro
+67202,Sete Lagoas
+65552,Setubinha
+67301,Silveirânia
+67400,Silvianópolis
+67509,Simão Pereira
+67608,Simonésia
+67707,Sobrália
+67806,Soledade de Minas
+67905,Tabuleiro
+68002,Taiobeiras
+68051,Taparuba
+68101,Tapira
+68200,Tapiraí
+68309,Taquaraçu de Minas
+68408,Tarumirim
+68507,Teixeiras
+68606,Teófilo Otoni
+68705,Timóteo
+68804,Tiradentes
+68903,Tiros
+69000,Tocantins
+69059,Tocos do Moji
+69109,Toledo
+69208,Tombos
+69307,Três Corações
+69356,Três Marias
+69406,Três Pontas
+69505,Tumiritinga
+69604,Tupaciguara
+69703,Turmalina
+69802,Turvolândia
+69901,Ubá
+70008,Ubaí
+70057,Ubaporanga
+70107,Uberaba
+70206,Uberlândia
+70305,Umburatiba
+70404,Unaí
+70438,União de Minas
+70479,Uruana de Minas
+70503,Urucânia
+70529,Urucuia
+70578,Vargem Alegre
+70602,Vargem Bonita
+70651,Vargem Grande do Rio Pardo
+70701,Varginha
+70750,Varjão de Minas
+70800,Várzea da Palma
+70909,Varzelândia
+71006,Vazante
+71030,Verdelândia
+71071,Veredinha
+71105,Veríssimo
+71154,Vermelho Novo
+71204,Vespasiano
+71303,Viçosa
+71402,Vieiras
+71600,Virgem da Lapa
+71709,Virgínia
+71808,Virginópolis
+71907,Virgolândia
+72004,Visconde do Rio Branco
+72103,Volta Grande
+72202,Wenceslau Braz
+102,Afonso Cláudio
+169,Água Doce do Norte
+136,Águia Branca
+201,Alegre
+300,Alfredo Chaves
+359,Alto Rio Novo
+409,Anchieta
+508,Apiacá
+607,Aracruz
+706,Atílio Vivácqua
+805,Baixo Guandu
+904,Barra de São Francisco
+1001,Boa Esperança
+1100,Bom Jesus do Norte
+1159,Brejetuba
+1209,Cachoeiro de Itapemirim
+1308,Cariacica
+1407,Castelo
+1506,Colatina
+1605,Conceição da Barra
+1704,Conceição do Castelo
+1803,Divino de São Lourenço
+1902,Domingos Martins
+2009,Dores do Rio Preto
+2108,Ecoporanga
+2207,Fundão
+2256,Governador Lindenberg
+2306,Guaçuí
+2405,Guarapari
+2454,Ibatiba
+2504,Ibiraçu
+2553,Ibitirama
+2603,Iconha
+2652,Irupi
+2702,Itaguaçu
+2801,Itapemirim
+2900,Itarana
+3007,Iúna
+3056,Jaguaré
+3106,Jerônimo Monteiro
+3130,João Neiva
+3163,Laranja da Terra
+3205,Linhares
+3304,Mantenópolis
+3320,Marataízes
+3346,Marechal Floriano
+3353,Marilândia
+3403,Mimoso do Sul
+3502,Montanha
+3601,Mucurici
+3700,Muniz Freire
+3809,Muqui
+3908,Nova Venécia
+4005,Pancas
+4054,Pedro Canário
+4104,Pinheiros
+4203,Piúma
+4252,Ponto Belo
+4302,Presidente Kennedy
+4351,Rio Bananal
+4401,Rio Novo do Sul
+4500,Santa Leopoldina
+4559,Santa Maria de Jetibá
+4609,Santa Teresa
+4658,São Domingos do Norte
+4708,São Gabriel da Palha
+4807,São José do Calçado
+4906,São Mateus
+4955,São Roque do Canaã
+5002,Serra
+5010,Sooretama
+5036,Vargem Alta
+5069,Venda Nova do Imigrante
+5101,Viana
+5150,Vila Pavão
+5176,Vila Valério
+5200,Vila Velha
+5309,Vitória
+100,Angra dos Reis
+159,Aperibé
+209,Araruama
+225,Areal
+233,Armação dos Búzios
+258,Arraial do Cabo
+308,Barra do Piraí
+407,Barra Mansa
+456,Belford Roxo
+506,Bom Jardim
+605,Bom Jesus do Itabapoana
+704,Cabo Frio
+803,Cachoeiras de Macacu
+902,Cambuci
+1009,Campos dos Goytacazes
+1108,Cantagalo
+936,Carapebus
+1157,Cardoso Moreira
+1207,Carmo
+1306,Casimiro de Abreu
+951,Comendador Levy Gasparian
+1405,Conceição de Macabu
+1504,Cordeiro
+1603,Duas Barras
+1702,Duque de Caxias
+1801,Engenheiro Paulo de Frontin
+1850,Guapimirim
+1876,Iguaba Grande
+1900,Itaboraí
+2007,Itaguaí
+2056,Italva
+2106,Itaocara
+2205,Itaperuna
+2254,Itatiaia
+2270,Japeri
+2304,Laje do Muriaé
+2403,Macaé
+2452,Macuco
+2502,Magé
+2601,Mangaratiba
+2700,Maricá
+2809,Mendes
+2858,Mesquita
+2908,Miguel Pereira
+3005,Miracema
+3104,Natividade
+3203,Nilópolis
+3302,Niterói
+3401,Nova Friburgo
+3500,Nova Iguaçu
+3609,Paracambi
+3708,Paraíba do Sul
+3807,Paraty
+3856,Paty do Alferes
+3906,Petrópolis
+3955,Pinheiral
+4003,Piraí
+4102,Porciúncula
+4110,Porto Real
+4128,Quatis
+4144,Queimados
+4151,Quissamã
+4201,Resende
+4300,Rio Bonito
+4409,Rio Claro
+4508,Rio das Flores
+4524,Rio das Ostras
+4557,Rio de Janeiro
+4607,Santa Maria Madalena
+4706,Santo Antônio de Pádua
+4805,São Fidélis
+4755,São Francisco de Itabapoana
+4904,São Gonçalo
+5000,São João da Barra
+5109,São João de Meriti
+5133,São José de Ubá
+5158,São José do Vale do Rio Preto
+5208,São Pedro da Aldeia
+5307,São Sebastião do Alto
+5406,Sapucaia
+5505,Saquarema
+5554,Seropédica
+5604,Silva Jardim
+5703,Sumidouro
+5752,Tanguá
+5802,Teresópolis
+5901,Trajano de Moraes
+6008,Três Rios
+6107,Valença
+6156,Varre-Sai
+6206,Vassouras
+6305,Volta Redonda
+105,Adamantina
+204,Adolfo
+303,Aguaí
+402,Águas da Prata
+501,Águas de Lindóia
+550,Águas de Santa Bárbara
+600,Águas de São Pedro
+709,Agudos
+758,Alambari
+808,Alfredo Marcondes
+907,Altair
+1004,Altinópolis
+1103,Alto Alegre
+1152,Alumínio
+1202,Álvares Florence
+1301,Álvares Machado
+1400,Álvaro de Carvalho
+1509,Alvinlândia
+1608,Americana
+1707,Américo Brasiliense
+1806,Américo de Campos
+1905,Amparo
+2002,Analândia
+2101,Andradina
+2200,Angatuba
+2309,Anhembi
+2408,Anhumas
+2507,Aparecida
+2606,Aparecida d'Oeste
+2705,Apiaí
+2754,Araçariguama
+2804,Araçatuba
+2903,Araçoiaba da Serra
+3000,Aramina
+3109,Arandu
+3158,Arapeí
+3208,Araraquara
+3307,Araras
+3356,Arco-Íris
+3406,Arealva
+3505,Areias
+3604,Areiópolis
+3703,Ariranha
+3802,Artur Nogueira
+3901,Arujá
+3950,Aspásia
+4008,Assis
+4107,Atibaia
+4206,Auriflama
+4305,Avaí
+4404,Avanhandava
+4503,Avaré
+4602,Bady Bassitt
+4701,Balbinos
+4800,Bálsamo
+4909,Bananal
+5005,Barão de Antonina
+5104,Barbosa
+5203,Bariri
+5302,Barra Bonita
+5351,Barra do Chapéu
+5401,Barra do Turvo
+5500,Barretos
+5609,Barrinha
+5708,Barueri
+5807,Bastos
+5906,Batatais
+6003,Bauru
+6102,Bebedouro
+6201,Bento de Abreu
+6300,Bernardino de Campos
+6359,Bertioga
+6409,Bilac
+6508,Birigui
+6607,Biritiba Mirim
+6706,Boa Esperança do Sul
+6805,Bocaina
+6904,Bofete
+7001,Boituva
+7100,Bom Jesus dos Perdões
+7159,Bom Sucesso de Itararé
+7209,Borá
+7308,Boracéia
+7407,Borborema
+7456,Borebi
+7506,Botucatu
+7605,Bragança Paulista
+7704,Braúna
+7753,Brejo Alegre
+7803,Brodowski
+7902,Brotas
+8009,Buri
+8108,Buritama
+8207,Buritizal
+8306,Cabrália Paulista
+8405,Cabreúva
+8504,Caçapava
+8603,Cachoeira Paulista
+8702,Caconde
+8801,Cafelândia
+8900,Caiabu
+9007,Caieiras
+9106,Caiuá
+9205,Cajamar
+9254,Cajati
+9304,Cajobi
+9403,Cajuru
+9452,Campina do Monte Alegre
+9502,Campinas
+9601,Campo Limpo Paulista
+9700,Campos do Jordão
+9809,Campos Novos Paulista
+9908,Cananéia
+9957,Canas
+10005,Cândido Mota
+10104,Cândido Rodrigues
+10153,Canitar
+10203,Capão Bonito
+10302,Capela do Alto
+10401,Capivari
+10500,Caraguatatuba
+10609,Carapicuíba
+10708,Cardoso
+10807,Casa Branca
+10906,Cássia dos Coqueiros
+11003,Castilho
+11102,Catanduva
+11201,Catiguá
+11300,Cedral
+11409,Cerqueira César
+11508,Cerquilho
+11607,Cesário Lange
+11706,Charqueada
+57204,Chavantes
+11904,Clementina
+12001,Colina
+12100,Colômbia
+12209,Conchal
+12308,Conchas
+12407,Cordeirópolis
+12506,Coroados
+12605,Coronel Macedo
+12704,Corumbataí
+12803,Cosmópolis
+12902,Cosmorama
+13009,Cotia
+13108,Cravinhos
+13207,Cristais Paulista
+13306,Cruzália
+13405,Cruzeiro
+13504,Cubatão
+13603,Cunha
+13702,Descalvado
+13801,Diadema
+13850,Dirce Reis
+13900,Divinolândia
+14007,Dobrada
+14106,Dois Córregos
+14205,Dolcinópolis
+14304,Dourado
+14403,Dracena
+14502,Duartina
+14601,Dumont
+14700,Echaporã
+14809,Eldorado
+14908,Elias Fausto
+14924,Elisiário
+14957,Embaúba
+15004,Embu das Artes
+15103,Embu-Guaçu
+15129,Emilianópolis
+15152,Engenheiro Coelho
+15186,Espírito Santo do Pinhal
+15194,Espírito Santo do Turvo
+57303,Estiva Gerbi
+15301,Estrela do Norte
+15202,Estrela d'Oeste
+15350,Euclides da Cunha Paulista
+15400,Fartura
+15608,Fernando Prestes
+15509,Fernandópolis
+15657,Fernão
+15707,Ferraz de Vasconcelos
+15806,Flora Rica
+15905,Floreal
+16002,Flórida Paulista
+16101,Florínea
+16200,Franca
+16309,Francisco Morato
+16408,Franco da Rocha
+16507,Gabriel Monteiro
+16606,Gália
+16705,Garça
+16804,Gastão Vidigal
+16853,Gavião Peixoto
+16903,General Salgado
+17000,Getulina
+17109,Glicério
+17208,Guaiçara
+17307,Guaimbê
+17406,Guaíra
+17505,Guapiaçu
+17604,Guapiara
+17703,Guará
+17802,Guaraçaí
+17901,Guaraci
+18008,Guarani d'Oeste
+18107,Guarantã
+18206,Guararapes
+18305,Guararema
+18404,Guaratinguetá
+18503,Guareí
+18602,Guariba
+18701,Guarujá
+18800,Guarulhos
+18859,Guatapará
+18909,Guzolândia
+19006,Herculândia
+19055,Holambra
+19071,Hortolândia
+19105,Iacanga
+19204,Iacri
+19253,Iaras
+19303,Ibaté
+19402,Ibirá
+19501,Ibirarema
+19600,Ibitinga
+19709,Ibiúna
+19808,Icém
+19907,Iepê
+20004,Igaraçu do Tietê
+20103,Igarapava
+20202,Igaratá
+20301,Iguape
+20426,Ilha Comprida
+20442,Ilha Solteira
+20400,Ilhabela
+20509,Indaiatuba
+20608,Indiana
+20707,Indiaporã
+20806,Inúbia Paulista
+20905,Ipaussu
+21002,Iperó
+21101,Ipeúna
+21150,Ipiguá
+21200,Iporanga
+21309,Ipuã
+21408,Iracemápolis
+21507,Irapuã
+21606,Irapuru
+21705,Itaberá
+21804,Itaí
+21903,Itajobi
+22000,Itaju
+22109,Itanhaém
+22158,Itaoca
+22208,Itapecerica da Serra
+22307,Itapetininga
+22406,Itapeva
+22505,Itapevi
+22604,Itapira
+22653,Itapirapuã Paulista
+22703,Itápolis
+22802,Itaporanga
+22901,Itapuí
+23008,Itapura
+23107,Itaquaquecetuba
+23206,Itararé
+23305,Itariri
+23404,Itatiba
+23503,Itatinga
+23602,Itirapina
+23701,Itirapuã
+23800,Itobi
+23909,Itu
+24006,Itupeva
+24105,Ituverava
+24204,Jaborandi
+24303,Jaboticabal
+24402,Jacareí
+24501,Jaci
+24600,Jacupiranga
+24709,Jaguariúna
+24808,Jales
+24907,Jambeiro
+25003,Jandira
+25102,Jardinópolis
+25201,Jarinu
+25300,Jaú
+25409,Jeriquara
+25508,Joanópolis
+25607,João Ramalho
+25706,José Bonifácio
+25805,Júlio Mesquita
+25854,Jumirim
+25904,Jundiaí
+26001,Junqueirópolis
+26100,Juquiá
+26209,Juquitiba
+26308,Lagoinha
+26407,Laranjal Paulista
+26506,Lavínia
+26605,Lavrinhas
+26704,Leme
+26803,Lençóis Paulista
+26902,Limeira
+27009,Lindóia
+27108,Lins
+27207,Lorena
+27256,Lourdes
+27306,Louveira
+27405,Lucélia
+27504,Lucianópolis
+27603,Luís Antônio
+27702,Luiziânia
+27801,Lupércio
+27900,Lutécia
+28007,Macatuba
+28106,Macaubal
+28205,Macedônia
+28304,Magda
+28403,Mairinque
+28502,Mairiporã
+28601,Manduri
+28700,Marabá Paulista
+28809,Maracaí
+28858,Marapoama
+28908,Mariápolis
+29005,Marília
+29104,Marinópolis
+29203,Martinópolis
+29302,Matão
+29401,Mauá
+29500,Mendonça
+29609,Meridiano
+29658,Mesópolis
+29708,Miguelópolis
+29807,Mineiros do Tietê
+30003,Mira Estrela
+29906,Miracatu
+30102,Mirandópolis
+30201,Mirante do Paranapanema
+30300,Mirassol
+30409,Mirassolândia
+30508,Mococa
+30607,Mogi das Cruzes
+30706,Mogi Guaçu
+30805,Mogi Mirim
+30904,Mombuca
+31001,Monções
+31100,Mongaguá
+31209,Monte Alegre do Sul
+31308,Monte Alto
+31407,Monte Aprazível
+31506,Monte Azul Paulista
+31605,Monte Castelo
+31803,Monte Mor
+31704,Monteiro Lobato
+31902,Morro Agudo
+32009,Morungaba
+32058,Motuca
+32108,Murutinga do Sul
+32157,Nantes
+32207,Narandiba
+32306,Natividade da Serra
+32405,Nazaré Paulista
+32504,Neves Paulista
+32603,Nhandeara
+32702,Nipoã
+32801,Nova Aliança
+32827,Nova Campina
+32843,Nova Canaã Paulista
+32868,Nova Castilho
+32900,Nova Europa
+33007,Nova Granada
+33106,Nova Guataporanga
+33205,Nova Independência
+33304,Nova Luzitânia
+33403,Nova Odessa
+33254,Novais
+33502,Novo Horizonte
+33601,Nuporanga
+33700,Ocauçu
+33809,Óleo
+33908,Olímpia
+34005,Onda Verde
+34104,Oriente
+34203,Orindiúva
+34302,Orlândia
+34401,Osasco
+34500,Oscar Bressane
+34609,Osvaldo Cruz
+34708,Ourinhos
+34807,Ouro Verde
+34757,Ouroeste
+34906,Pacaembu
+35002,Palestina
+35101,Palmares Paulista
+35200,Palmeira d'Oeste
+35309,Palmital
+35408,Panorama
+35507,Paraguaçu Paulista
+35606,Paraibuna
+35705,Paraíso
+35804,Paranapanema
+35903,Paranapuã
+36000,Parapuã
+36109,Pardinho
+36208,Pariquera-Açu
+36257,Parisi
+36307,Patrocínio Paulista
+36406,Paulicéia
+36505,Paulínia
+36570,Paulistânia
+36604,Paulo de Faria
+36703,Pederneiras
+36802,Pedra Bela
+36901,Pedranópolis
+37008,Pedregulho
+37107,Pedreira
+37156,Pedrinhas Paulista
+37206,Pedro de Toledo
+37305,Penápolis
+37404,Pereira Barreto
+37503,Pereiras
+37602,Peruíbe
+37701,Piacatu
+37800,Piedade
+37909,Pilar do Sul
+38006,Pindamonhangaba
+38105,Pindorama
+38204,Pinhalzinho
+38303,Piquerobi
+38501,Piquete
+38600,Piracaia
+38709,Piracicaba
+38808,Piraju
+38907,Pirajuí
+39004,Pirangi
+39103,Pirapora do Bom Jesus
+39202,Pirapozinho
+39301,Pirassununga
+39400,Piratininga
+39509,Pitangueiras
+39608,Planalto
+39707,Platina
+39806,Poá
+39905,Poloni
+40002,Pompéia
+40101,Pongaí
+40200,Pontal
+40259,Pontalinda
+40309,Pontes Gestal
+40408,Populina
+40507,Porangaba
+40606,Porto Feliz
+40705,Porto Ferreira
+40754,Potim
+40804,Potirendaba
+40853,Pracinha
+40903,Pradópolis
+41000,Praia Grande
+41059,Pratânia
+41109,Presidente Alves
+41208,Presidente Bernardes
+41307,Presidente Epitácio
+41406,Presidente Prudente
+41505,Presidente Venceslau
+41604,Promissão
+41653,Quadra
+41703,Quatá
+41802,Queiroz
+41901,Queluz
+42008,Quintana
+42107,Rafard
+42206,Rancharia
+42305,Redenção da Serra
+42404,Regente Feijó
+42503,Reginópolis
+42602,Registro
+42701,Restinga
+42800,Ribeira
+42909,Ribeirão Bonito
+43006,Ribeirão Branco
+43105,Ribeirão Corrente
+43204,Ribeirão do Sul
+43238,Ribeirão dos Índios
+43253,Ribeirão Grande
+43303,Ribeirão Pires
+43402,Ribeirão Preto
+43600,Rifaina
+43709,Rincão
+43808,Rinópolis
+43907,Rio Claro
+44004,Rio das Pedras
+44103,Rio Grande da Serra
+44202,Riolândia
+43501,Riversul
+44251,Rosana
+44301,Roseira
+44400,Rubiácea
+44509,Rubinéia
+44608,Sabino
+44707,Sagres
+44806,Sales
+44905,Sales Oliveira
+45001,Salesópolis
+45100,Salmourão
+45159,Saltinho
+45209,Salto
+45308,Salto de Pirapora
+45407,Salto Grande
+45506,Sandovalina
+45605,Santa Adélia
+45704,Santa Albertina
+45803,Santa Bárbara d'Oeste
+46009,Santa Branca
+46108,Santa Clara d'Oeste
+46207,Santa Cruz da Conceição
+46256,Santa Cruz da Esperança
+46306,Santa Cruz das Palmeiras
+46405,Santa Cruz do Rio Pardo
+46504,Santa Ernestina
+46603,Santa Fé do Sul
+46702,Santa Gertrudes
+46801,Santa Isabel
+46900,Santa Lúcia
+47007,Santa Maria da Serra
+47106,Santa Mercedes
+47502,Santa Rita do Passa Quatro
+47403,Santa Rita d'Oeste
+47601,Santa Rosa de Viterbo
+47650,Santa Salete
+47205,Santana da Ponte Pensa
+47304,Santana de Parnaíba
+47700,Santo Anastácio
+47809,Santo André
+47908,Santo Antônio da Alegria
+48005,Santo Antônio de Posse
+48054,Santo Antônio do Aracanguá
+48104,Santo Antônio do Jardim
+48203,Santo Antônio do Pinhal
+48302,Santo Expedito
+48401,Santópolis do Aguapeí
+48500,Santos
+48609,São Bento do Sapucaí
+48708,São Bernardo do Campo
+48807,São Caetano do Sul
+48906,São Carlos
+49003,São Francisco
+49102,São João da Boa Vista
+49201,São João das Duas Pontes
+49250,São João de Iracema
+49300,São João do Pau d'Alho
+49409,São Joaquim da Barra
+49508,São José da Bela Vista
+49607,São José do Barreiro
+49706,São José do Rio Pardo
+49805,São José do Rio Preto
+49904,São José dos Campos
+49953,São Lourenço da Serra
+50001,São Luiz do Paraitinga
+50100,São Manuel
+50209,São Miguel Arcanjo
+50308,São Paulo
+50407,São Pedro
+50506,São Pedro do Turvo
+50605,São Roque
+50704,São Sebastião
+50803,São Sebastião da Grama
+50902,São Simão
+51009,São Vicente
+51108,Sarapuí
+51207,Sarutaiá
+51306,Sebastianópolis do Sul
+51405,Serra Azul
+51603,Serra Negra
+51504,Serrana
+51702,Sertãozinho
+51801,Sete Barras
+51900,Severínia
+52007,Silveiras
+52106,Socorro
+52205,Sorocaba
+52304,Sud Mennucci
+52403,Sumaré
+52551,Suzanápolis
+52502,Suzano
+52601,Tabapuã
+52700,Tabatinga
+52809,Taboão da Serra
+52908,Taciba
+53005,Taguaí
+53104,Taiaçu
+53203,Taiúva
+53302,Tambaú
+53401,Tanabi
+53500,Tapiraí
+53609,Tapiratiba
+53658,Taquaral
+53708,Taquaritinga
+53807,Taquarituba
+53856,Taquarivaí
+53906,Tarabai
+53955,Tarumã
+54003,Tatuí
+54102,Taubaté
+54201,Tejupá
+54300,Teodoro Sampaio
+54409,Terra Roxa
+54508,Tietê
+54607,Timburi
+54656,Torre de Pedra
+54706,Torrinha
+54755,Trabiju
+54805,Tremembé
+54904,Três Fronteiras
+54953,Tuiuti
+55000,Tupã
+55109,Tupi Paulista
+55208,Turiúba
+55307,Turmalina
+55356,Ubarana
+55406,Ubatuba
+55505,Ubirajara
+55604,Uchoa
+55703,União Paulista
+55802,Urânia
+55901,Uru
+56008,Urupês
+56107,Valentim Gentil
+56206,Valinhos
+56305,Valparaíso
+56354,Vargem
+56404,Vargem Grande do Sul
+56453,Vargem Grande Paulista
+56503,Várzea Paulista
+56602,Vera Cruz
+56701,Vinhedo
+56800,Viradouro
+56909,Vista Alegre do Alto
+56958,Vitória Brasil
+57006,Votorantim
+57105,Votuporanga
+57154,Zacarias
+103,Abatiá
+202,Adrianópolis
+301,Agudos do Sul
+400,Almirante Tamandaré
+459,Altamira do Paraná
+28625,Alto Paraíso
+608,Alto Paraná
+707,Alto Piquiri
+509,Altônia
+806,Alvorada do Sul
+905,Amaporã
+1002,Ampére
+1051,Anahy
+1101,Andirá
+1150,Ângulo
+1200,Antonina
+1309,Antônio Olinto
+1408,Apucarana
+1507,Arapongas
+1606,Arapoti
+1655,Arapuã
+1705,Araruna
+1804,Araucária
+1853,Ariranha do Ivaí
+1903,Assaí
+2000,Assis Chateaubriand
+2109,Astorga
+2208,Atalaia
+2307,Balsa Nova
+2406,Bandeirantes
+2505,Barbosa Ferraz
+2703,Barra do Jacaré
+2604,Barracão
+2752,Bela Vista da Caroba
+2802,Bela Vista do Paraíso
+2901,Bituruna
+3008,Boa Esperança
+3024,Boa Esperança do Iguaçu
+3040,Boa Ventura de São Roque
+3057,Boa Vista da Aparecida
+3107,Bocaiúva do Sul
+3156,Bom Jesus do Sul
+3206,Bom Sucesso
+3222,Bom Sucesso do Sul
+3305,Borrazópolis
+3354,Braganey
+3370,Brasilândia do Sul
+3404,Cafeara
+3453,Cafelândia
+3479,Cafezal do Sul
+3503,Califórnia
+3602,Cambará
+3701,Cambé
+3800,Cambira
+3909,Campina da Lagoa
+3958,Campina do Simão
+4006,Campina Grande do Sul
+4055,Campo Bonito
+4105,Campo do Tenente
+4204,Campo Largo
+4253,Campo Magro
+4303,Campo Mourão
+4402,Cândido de Abreu
+4428,Candói
+4451,Cantagalo
+4501,Capanema
+4600,Capitão Leônidas Marques
+4659,Carambeí
+4709,Carlópolis
+4808,Cascavel
+4907,Castro
+5003,Catanduvas
+5102,Centenário do Sul
+5201,Cerro Azul
+5300,Céu Azul
+5409,Chopinzinho
+5508,Cianorte
+5607,Cidade Gaúcha
+5706,Clevelândia
+5805,Colombo
+5904,Colorado
+6001,Congonhinhas
+6100,Conselheiro Mairinck
+6209,Contenda
+6308,Corbélia
+6407,Cornélio Procópio
+6456,Coronel Domingos Soares
+6506,Coronel Vivida
+6555,Corumbataí do Sul
+6803,Cruz Machado
+6571,Cruzeiro do Iguaçu
+6605,Cruzeiro do Oeste
+6704,Cruzeiro do Sul
+6852,Cruzmaltina
+6902,Curitiba
+7009,Curiúva
+7108,Diamante do Norte
+7124,Diamante do Sul
+7157,Diamante D'Oeste
+7207,Dois Vizinhos
+7256,Douradina
+7306,Doutor Camargo
+28633,Doutor Ulysses
+7405,Enéas Marques
+7504,Engenheiro Beltrão
+7538,Entre Rios do Oeste
+7520,Esperança Nova
+7546,Espigão Alto do Iguaçu
+7553,Farol
+7603,Faxinal
+7652,Fazenda Rio Grande
+7702,Fênix
+7736,Fernandes Pinheiro
+7751,Figueira
+7850,Flor da Serra do Sul
+7801,Floraí
+7900,Floresta
+8007,Florestópolis
+8106,Flórida
+8205,Formosa do Oeste
+8304,Foz do Iguaçu
+8452,Foz do Jordão
+8320,Francisco Alves
+8403,Francisco Beltrão
+8502,General Carneiro
+8551,Godoy Moreira
+8601,Goioerê
+8650,Goioxim
+8700,Grandes Rios
+8809,Guaíra
+8908,Guairaçá
+8957,Guamiranga
+9005,Guapirama
+9104,Guaporema
+9203,Guaraci
+9302,Guaraniaçu
+9401,Guarapuava
+9500,Guaraqueçaba
+9609,Guaratuba
+9658,Honório Serpa
+9708,Ibaiti
+9757,Ibema
+9807,Ibiporã
+9906,Icaraíma
+10003,Iguaraçu
+10052,Iguatu
+10078,Imbaú
+10102,Imbituva
+10201,Inácio Martins
+10300,Inajá
+10409,Indianópolis
+10508,Ipiranga
+10607,Iporã
+10656,Iracema do Oeste
+10706,Irati
+10805,Iretama
+10904,Itaguajé
+10953,Itaipulândia
+11001,Itambaracá
+11100,Itambé
+11209,Itapejara d'Oeste
+11258,Itaperuçu
+11308,Itaúna do Sul
+11407,Ivaí
+11506,Ivaiporã
+11555,Ivaté
+11605,Ivatuba
+11704,Jaboti
+11803,Jacarezinho
+11902,Jaguapitã
+12009,Jaguariaíva
+12108,Jandaia do Sul
+12207,Janiópolis
+12306,Japira
+12405,Japurá
+12504,Jardim Alegre
+12603,Jardim Olinda
+12702,Jataizinho
+12751,Jesuítas
+12801,Joaquim Távora
+12900,Jundiaí do Sul
+12959,Juranda
+13007,Jussara
+13106,Kaloré
+13205,Lapa
+13254,Laranjal
+13304,Laranjeiras do Sul
+13403,Leópolis
+13429,Lidianópolis
+13452,Lindoeste
+13502,Loanda
+13601,Lobato
+13700,Londrina
+13734,Luiziana
+13759,Lunardelli
+13809,Lupionópolis
+13908,Mallet
+14005,Mamborê
+14104,Mandaguaçu
+14203,Mandaguari
+14302,Mandirituba
+14351,Manfrinópolis
+14401,Mangueirinha
+14500,Manoel Ribas
+14609,Marechal Cândido Rondon
+14708,Maria Helena
+14807,Marialva
+14906,Marilândia do Sul
+15002,Marilena
+15101,Mariluz
+15200,Maringá
+15309,Mariópolis
+15358,Maripá
+15408,Marmeleiro
+15457,Marquinho
+15507,Marumbi
+15606,Matelândia
+15705,Matinhos
+15739,Mato Rico
+15754,Mauá da Serra
+15804,Medianeira
+15853,Mercedes
+15903,Mirador
+16000,Miraselva
+16059,Missal
+16109,Moreira Sales
+16208,Morretes
+16307,Munhoz de Melo
+16406,Nossa Senhora das Graças
+16505,Nova Aliança do Ivaí
+16604,Nova América da Colina
+16703,Nova Aurora
+16802,Nova Cantu
+16901,Nova Esperança
+16950,Nova Esperança do Sudoeste
+17008,Nova Fátima
+17057,Nova Laranjeiras
+17107,Nova Londrina
+17206,Nova Olímpia
+17255,Nova Prata do Iguaçu
+17214,Nova Santa Bárbara
+17222,Nova Santa Rosa
+17271,Nova Tebas
+17297,Novo Itacolomi
+17305,Ortigueira
+17404,Ourizona
+17453,Ouro Verde do Oeste
+17503,Paiçandu
+17602,Palmas
+17701,Palmeira
+17800,Palmital
+17909,Palotina
+18006,Paraíso do Norte
+18105,Paranacity
+18204,Paranaguá
+18303,Paranapoema
+18402,Paranavaí
+18451,Pato Bragado
+18501,Pato Branco
+18600,Paula Freitas
+18709,Paulo Frontin
+18808,Peabiru
+18857,Perobal
+18907,Pérola
+19004,Pérola d'Oeste
+19103,Piên
+19152,Pinhais
+19251,Pinhal de São Bento
+19202,Pinhalão
+19301,Pinhão
+19400,Piraí do Sul
+19509,Piraquara
+19608,Pitanga
+19657,Pitangueiras
+19707,Planaltina do Paraná
+19806,Planalto
+19905,Ponta Grossa
+19954,Pontal do Paraná
+20002,Porecatu
+20101,Porto Amazonas
+20150,Porto Barreiro
+20200,Porto Rico
+20309,Porto Vitória
+20333,Prado Ferreira
+20358,Pranchita
+20408,Presidente Castelo Branco
+20507,Primeiro de Maio
+20606,Prudentópolis
+20655,Quarto Centenário
+20705,Quatiguá
+20804,Quatro Barras
+20853,Quatro Pontes
+20903,Quedas do Iguaçu
+21000,Querência do Norte
+21109,Quinta do Sol
+21208,Quitandinha
+21257,Ramilândia
+21307,Rancho Alegre
+21356,Rancho Alegre D'Oeste
+21406,Realeza
+21505,Rebouças
+21604,Renascença
+21703,Reserva
+21752,Reserva do Iguaçu
+21802,Ribeirão Claro
+21901,Ribeirão do Pinhal
+22008,Rio Azul
+22107,Rio Bom
+22156,Rio Bonito do Iguaçu
+22172,Rio Branco do Ivaí
+22206,Rio Branco do Sul
+22305,Rio Negro
+22404,Rolândia
+22503,Roncador
+22602,Rondon
+22651,Rosário do Ivaí
+22701,Sabáudia
+22800,Salgado Filho
+22909,Salto do Itararé
+23006,Salto do Lontra
+23105,Santa Amélia
+23204,Santa Cecília do Pavão
+23303,Santa Cruz de Monte Castelo
+23402,Santa Fé
+23501,Santa Helena
+23600,Santa Inês
+23709,Santa Isabel do Ivaí
+23808,Santa Izabel do Oeste
+23824,Santa Lúcia
+23857,Santa Maria do Oeste
+23907,Santa Mariana
+23956,Santa Mônica
+24020,Santa Tereza do Oeste
+24053,Santa Terezinha de Itaipu
+24004,Santana do Itararé
+24103,Santo Antônio da Platina
+24202,Santo Antônio do Caiuá
+24301,Santo Antônio do Paraíso
+24400,Santo Antônio do Sudoeste
+24509,Santo Inácio
+24608,São Carlos do Ivaí
+24707,São Jerônimo da Serra
+24806,São João
+24905,São João do Caiuá
+25001,São João do Ivaí
+25100,São João do Triunfo
+25308,São Jorge do Ivaí
+25357,São Jorge do Patrocínio
+25209,São Jorge d'Oeste
+25407,São José da Boa Vista
+25456,São José das Palmeiras
+25506,São José dos Pinhais
+25555,São Manoel do Paraná
+25605,São Mateus do Sul
+25704,São Miguel do Iguaçu
+25753,São Pedro do Iguaçu
+25803,São Pedro do Ivaí
+25902,São Pedro do Paraná
+26009,São Sebastião da Amoreira
+26108,São Tomé
+26207,Sapopema
+26256,Sarandi
+26272,Saudade do Iguaçu
+26306,Sengés
+26355,Serranópolis do Iguaçu
+26405,Sertaneja
+26504,Sertanópolis
+26603,Siqueira Campos
+26652,Sulina
+26678,Tamarana
+26702,Tamboara
+26801,Tapejara
+26900,Tapira
+27007,Teixeira Soares
+27106,Telêmaco Borba
+27205,Terra Boa
+27304,Terra Rica
+27403,Terra Roxa
+27502,Tibagi
+27601,Tijucas do Sul
+27700,Toledo
+27809,Tomazina
+27858,Três Barras do Paraná
+27882,Tunas do Paraná
+27908,Tuneiras do Oeste
+27957,Tupãssi
+27965,Turvo
+28005,Ubiratã
+28104,Umuarama
+28203,União da Vitória
+28302,Uniflor
+28401,Uraí
+28534,Ventania
+28559,Vera Cruz do Oeste
+28609,Verê
+28658,Virmond
+28708,Vitorino
+28500,Wenceslau Braz
+28807,Xambrê
+51,Abdon Batista
+101,Abelardo Luz
+200,Agrolândia
+309,Agronômica
+408,Água Doce
+507,Águas de Chapecó
+556,Águas Frias
+606,Águas Mornas
+705,Alfredo Wagner
+754,Alto Bela Vista
+804,Anchieta
+903,Angelina
+1000,Anita Garibaldi
+1109,Anitápolis
+1208,Antônio Carlos
+1257,Apiúna
+1273,Arabutã
+1307,Araquari
+1406,Araranguá
+1505,Armazém
+1604,Arroio Trinta
+1653,Arvoredo
+1703,Ascurra
+1802,Atalanta
+1901,Aurora
+1950,Balneário Arroio do Silva
+2057,Balneário Barra do Sul
+2008,Balneário Camboriú
+2073,Balneário Gaivota
+12809,Balneário Piçarras
+20000,Balneário Rincão
+2081,Bandeirante
+2099,Barra Bonita
+2107,Barra Velha
+2131,Bela Vista do Toldo
+2156,Belmonte
+2206,Benedito Novo
+2305,Biguaçu
+2404,Blumenau
+2438,Bocaina do Sul
+2503,Bom Jardim da Serra
+2537,Bom Jesus
+2578,Bom Jesus do Oeste
+2602,Bom Retiro
+2453,Bombinhas
+2701,Botuverá
+2800,Braço do Norte
+2859,Braço do Trombudo
+2875,Brunópolis
+2909,Brusque
+3006,Caçador
+3105,Caibi
+3154,Calmon
+3204,Camboriú
+3303,Campo Alegre
+3402,Campo Belo do Sul
+3501,Campo Erê
+3600,Campos Novos
+3709,Canelinha
+3808,Canoinhas
+3253,Capão Alto
+3907,Capinzal
+3956,Capivari de Baixo
+4004,Catanduvas
+4103,Caxambu do Sul
+4152,Celso Ramos
+4178,Cerro Negro
+4194,Chapadão do Lageado
+4202,Chapecó
+4251,Cocal do Sul
+4301,Concórdia
+4350,Cordilheira Alta
+4400,Coronel Freitas
+4459,Coronel Martins
+4558,Correia Pinto
+4509,Corupá
+4608,Criciúma
+4707,Cunha Porã
+4756,Cunhataí
+4806,Curitibanos
+4905,Descanso
+5001,Dionísio Cerqueira
+5100,Dona Emma
+5159,Doutor Pedrinho
+5175,Entre Rios
+5191,Ermo
+5209,Erval Velho
+5308,Faxinal dos Guedes
+5357,Flor do Sertão
+5407,Florianópolis
+5431,Formosa do Sul
+5456,Forquilhinha
+5506,Fraiburgo
+5555,Frei Rogério
+5605,Galvão
+5704,Garopaba
+5803,Garuva
+5902,Gaspar
+6009,Governador Celso Ramos
+6108,Grão-Pará
+6207,Gravatal
+6306,Guabiruba
+6405,Guaraciaba
+6504,Guaramirim
+6603,Guarujá do Sul
+6652,Guatambú
+6702,Herval d'Oeste
+6751,Ibiam
+6801,Ibicaré
+6900,Ibirama
+7007,Içara
+7106,Ilhota
+7205,Imaruí
+7304,Imbituba
+7403,Imbuia
+7502,Indaial
+7577,Iomerê
+7601,Ipira
+7650,Iporã do Oeste
+7684,Ipuaçu
+7700,Ipumirim
+7759,Iraceminha
+7809,Irani
+7858,Irati
+7908,Irineópolis
+8005,Itá
+8104,Itaiópolis
+8203,Itajaí
+8302,Itapema
+8401,Itapiranga
+8450,Itapoá
+8500,Ituporanga
+8609,Jaborá
+8708,Jacinto Machado
+8807,Jaguaruna
+8906,Jaraguá do Sul
+8955,Jardinópolis
+9003,Joaçaba
+9102,Joinville
+9151,José Boiteux
+9177,Jupiá
+9201,Lacerdópolis
+9300,Lages
+9409,Laguna
+9458,Lajeado Grande
+9508,Laurentino
+9607,Lauro Müller
+9706,Lebon Régis
+9805,Leoberto Leal
+9854,Lindóia do Sul
+9904,Lontras
+10001,Luiz Alves
+10035,Luzerna
+10050,Macieira
+10100,Mafra
+10209,Major Gercino
+10308,Major Vieira
+10407,Maracajá
+10506,Maravilha
+10555,Marema
+10605,Massaranduba
+10704,Matos Costa
+10803,Meleiro
+10852,Mirim Doce
+10902,Modelo
+11009,Mondaí
+11058,Monte Carlo
+11108,Monte Castelo
+11207,Morro da Fumaça
+11256,Morro Grande
+11306,Navegantes
+11405,Nova Erechim
+11454,Nova Itaberaba
+11504,Nova Trento
+11603,Nova Veneza
+11652,Novo Horizonte
+11702,Orleans
+11751,Otacílio Costa
+11801,Ouro
+11850,Ouro Verde
+11876,Paial
+11892,Painel
+11900,Palhoça
+12007,Palma Sola
+12056,Palmeira
+12106,Palmitos
+12205,Papanduva
+12239,Paraíso
+12254,Passo de Torres
+12270,Passos Maia
+12304,Paulo Lopes
+12403,Pedras Grandes
+12502,Penha
+12601,Peritiba
+12650,Pescaria Brava
+12700,Petrolândia
+12908,Pinhalzinho
+13005,Pinheiro Preto
+13104,Piratuba
+13153,Planalto Alegre
+13203,Pomerode
+13302,Ponte Alta
+13351,Ponte Alta do Norte
+13401,Ponte Serrada
+13500,Porto Belo
+13609,Porto União
+13708,Pouso Redondo
+13807,Praia Grande
+13906,Presidente Castello Branco
+14003,Presidente Getúlio
+14102,Presidente Nereu
+14151,Princesa
+14201,Quilombo
+14300,Rancho Queimado
+14409,Rio das Antas
+14508,Rio do Campo
+14607,Rio do Oeste
+14805,Rio do Sul
+14706,Rio dos Cedros
+14904,Rio Fortuna
+15000,Rio Negrinho
+15059,Rio Rufino
+15075,Riqueza
+15109,Rodeio
+15208,Romelândia
+15307,Salete
+15356,Saltinho
+15406,Salto Veloso
+15455,Sangão
+15505,Santa Cecília
+15554,Santa Helena
+15604,Santa Rosa de Lima
+15653,Santa Rosa do Sul
+15679,Santa Terezinha
+15687,Santa Terezinha do Progresso
+15695,Santiago do Sul
+15703,Santo Amaro da Imperatriz
+15802,São Bento do Sul
+15752,São Bernardino
+15901,São Bonifácio
+16008,São Carlos
+16057,São Cristóvão do Sul
+16107,São Domingos
+16206,São Francisco do Sul
+16305,São João Batista
+16354,São João do Itaperiú
+16255,São João do Oeste
+16404,São João do Sul
+16503,São Joaquim
+16602,São José
+16701,São José do Cedro
+16800,São José do Cerrito
+16909,São Lourenço do Oeste
+17006,São Ludgero
+17105,São Martinho
+17154,São Miguel da Boa Vista
+17204,São Miguel do Oeste
+17253,São Pedro de Alcântara
+17303,Saudades
+17402,Schroeder
+17501,Seara
+17550,Serra Alta
+17600,Siderópolis
+17709,Sombrio
+17758,Sul Brasil
+17808,Taió
+17907,Tangará
+17956,Tigrinhos
+18004,Tijucas
+18103,Timbé do Sul
+18202,Timbó
+18251,Timbó Grande
+18301,Três Barras
+18350,Treviso
+18400,Treze de Maio
+18509,Treze Tílias
+18608,Trombudo Central
+18707,Tubarão
+18756,Tunápolis
+18806,Turvo
+18855,União do Oeste
+18905,Urubici
+18954,Urupema
+19002,Urussanga
+19101,Vargeão
+19150,Vargem
+19176,Vargem Bonita
+19200,Vidal Ramos
+19309,Videira
+19358,Vitor Meireles
+19408,Witmarsum
+19507,Xanxerê
+19606,Xavantina
+19705,Xaxim
+19853,Zortéa
+34,Aceguá
+59,Água Santa
+109,Agudo
+208,Ajuricaba
+307,Alecrim
+406,Alegrete
+455,Alegria
+471,Almirante Tamandaré do Sul
+505,Alpestre
+554,Alto Alegre
+570,Alto Feliz
+604,Alvorada
+638,Amaral Ferrador
+646,Ametista do Sul
+661,André da Rocha
+703,Anta Gorda
+802,Antônio Prado
+851,Arambaré
+877,Araricá
+901,Aratiba
+1008,Arroio do Meio
+1073,Arroio do Padre
+1057,Arroio do Sal
+1206,Arroio do Tigre
+1107,Arroio dos Ratos
+1305,Arroio Grande
+1404,Arvorezinha
+1503,Augusto Pestana
+1552,Áurea
+1602,Bagé
+1636,Balneário Pinhal
+1651,Barão
+1701,Barão de Cotegipe
+1750,Barão do Triunfo
+1859,Barra do Guarita
+1875,Barra do Quaraí
+1909,Barra do Ribeiro
+1925,Barra do Rio Azul
+1958,Barra Funda
+1800,Barracão
+2006,Barros Cassal
+2055,Benjamin Constant do Sul
+2105,Bento Gonçalves
+2154,Boa Vista das Missões
+2204,Boa Vista do Buricá
+2220,Boa Vista do Cadeado
+2238,Boa Vista do Incra
+2253,Boa Vista do Sul
+2303,Bom Jesus
+2352,Bom Princípio
+2378,Bom Progresso
+2402,Bom Retiro do Sul
+2451,Boqueirão do Leão
+2501,Bossoroca
+2584,Bozano
+2600,Braga
+2659,Brochier
+2709,Butiá
+2808,Caçapava do Sul
+2907,Cacequi
+3004,Cachoeira do Sul
+3103,Cachoeirinha
+3202,Cacique Doble
+3301,Caibaté
+3400,Caiçara
+3509,Camaquã
+3558,Camargo
+3608,Cambará do Sul
+3673,Campestre da Serra
+3707,Campina das Missões
+3806,Campinas do Sul
+3905,Campo Bom
+4002,Campo Novo
+4101,Campos Borges
+4200,Candelária
+4309,Cândido Godói
+4358,Candiota
+4408,Canela
+4507,Canguçu
+4606,Canoas
+4614,Canudos do Vale
+4622,Capão Bonito do Sul
+4630,Capão da Canoa
+4655,Capão do Cipó
+4663,Capão do Leão
+4689,Capela de Santana
+4697,Capitão
+4671,Capivari do Sul
+4713,Caraá
+4705,Carazinho
+4804,Carlos Barbosa
+4853,Carlos Gomes
+4903,Casca
+4952,Caseiros
+5009,Catuípe
+5108,Caxias do Sul
+5116,Centenário
+5124,Cerrito
+5132,Cerro Branco
+5157,Cerro Grande
+5173,Cerro Grande do Sul
+5207,Cerro Largo
+5306,Chapada
+5355,Charqueadas
+5371,Charrua
+5405,Chiapetta
+5439,Chuí
+5447,Chuvisca
+5454,Cidreira
+5504,Ciríaco
+5587,Colinas
+5603,Colorado
+5702,Condor
+5801,Constantina
+5835,Coqueiro Baixo
+5850,Coqueiros do Sul
+5871,Coronel Barros
+5900,Coronel Bicaco
+5934,Coronel Pilar
+5959,Cotiporã
+5975,Coxilha
+6007,Crissiumal
+6056,Cristal
+6072,Cristal do Sul
+6106,Cruz Alta
+6130,Cruzaltense
+6205,Cruzeiro do Sul
+6304,David Canabarro
+6320,Derrubadas
+6353,Dezesseis de Novembro
+6379,Dilermando de Aguiar
+6403,Dois Irmãos
+6429,Dois Irmãos das Missões
+6452,Dois Lajeados
+6502,Dom Feliciano
+6601,Dom Pedrito
+6551,Dom Pedro de Alcântara
+6700,Dona Francisca
+6734,Doutor Maurício Cardoso
+6759,Doutor Ricardo
+6767,Eldorado do Sul
+6809,Encantado
+6908,Encruzilhada do Sul
+6924,Engenho Velho
+6957,Entre Rios do Sul
+6932,Entre-Ijuís
+6973,Erebango
+7005,Erechim
+7054,Ernestina
+7203,Erval Grande
+7302,Erval Seco
+7401,Esmeralda
+7450,Esperança do Sul
+7500,Espumoso
+7559,Estação
+7609,Estância Velha
+7708,Esteio
+7807,Estrela
+7815,Estrela Velha
+7831,Eugênio de Castro
+7864,Fagundes Varela
+7906,Farroupilha
+8003,Faxinal do Soturno
+8052,Faxinalzinho
+8078,Fazenda Vilanova
+8102,Feliz
+8201,Flores da Cunha
+8250,Floriano Peixoto
+8300,Fontoura Xavier
+8409,Formigueiro
+8433,Forquetinha
+8458,Fortaleza dos Valos
+8508,Frederico Westphalen
+8607,Garibaldi
+8656,Garruchos
+8706,Gaurama
+8805,General Câmara
+8854,Gentil
+8904,Getúlio Vargas
+9001,Giruá
+9050,Glorinha
+9100,Gramado
+9126,Gramado dos Loureiros
+9159,Gramado Xavier
+9209,Gravataí
+9258,Guabiju
+9308,Guaíba
+9407,Guaporé
+9506,Guarani das Missões
+9555,Harmonia
+7104,Herval
+9571,Herveiras
+9605,Horizontina
+9654,Hulha Negra
+9704,Humaitá
+9753,Ibarama
+9803,Ibiaçá
+9902,Ibiraiaras
+9951,Ibirapuitã
+10009,Ibirubá
+10108,Igrejinha
+10207,Ijuí
+10306,Ilópolis
+10330,Imbé
+10363,Imigrante
+10405,Independência
+10413,Inhacorá
+10439,Ipê
+10462,Ipiranga do Sul
+10504,Iraí
+10538,Itaara
+10553,Itacurubi
+10579,Itapuca
+10603,Itaqui
+10652,Itati
+10702,Itatiba do Sul
+10751,Ivorá
+10801,Ivoti
+10850,Jaboticaba
+10876,Jacuizinho
+10900,Jacutinga
+11007,Jaguarão
+11106,Jaguari
+11122,Jaquirana
+11130,Jari
+11155,Jóia
+11205,Júlio de Castilhos
+11239,Lagoa Bonita do Sul
+11270,Lagoa dos Três Cantos
+11304,Lagoa Vermelha
+11254,Lagoão
+11403,Lajeado
+11429,Lajeado do Bugre
+11502,Lavras do Sul
+11601,Liberato Salzano
+11627,Lindolfo Collor
+11643,Linha Nova
+11718,Maçambará
+11700,Machadinho
+11734,Mampituba
+11759,Manoel Viana
+11775,Maquiné
+11791,Maratá
+11809,Marau
+11908,Marcelino Ramos
+11981,Mariana Pimentel
+12005,Mariano Moro
+12054,Marques de Souza
+12104,Mata
+12138,Mato Castelhano
+12153,Mato Leitão
+12179,Mato Queimado
+12203,Maximiliano de Almeida
+12252,Minas do Leão
+12302,Miraguaí
+12351,Montauri
+12377,Monte Alegre dos Campos
+12385,Monte Belo do Sul
+12401,Montenegro
+12427,Mormaço
+12443,Morrinhos do Sul
+12450,Morro Redondo
+12476,Morro Reuter
+12500,Mostardas
+12609,Muçum
+12617,Muitos Capões
+12625,Muliterno
+12658,Não-Me-Toque
+12674,Nicolau Vergueiro
+12708,Nonoai
+12757,Nova Alvorada
+12807,Nova Araçá
+12906,Nova Bassano
+12955,Nova Boa Vista
+13003,Nova Bréscia
+13011,Nova Candelária
+13037,Nova Esperança do Sul
+13060,Nova Hartz
+13086,Nova Pádua
+13102,Nova Palma
+13201,Nova Petrópolis
+13300,Nova Prata
+13334,Nova Ramada
+13359,Nova Roma do Sul
+13375,Nova Santa Rita
+13490,Novo Barreiro
+13391,Novo Cabrais
+13409,Novo Hamburgo
+13425,Novo Machado
+13441,Novo Tiradentes
+13466,Novo Xingu
+13508,Osório
+13607,Paim Filho
+13656,Palmares do Sul
+13706,Palmeira das Missões
+13805,Palmitinho
+13904,Panambi
+13953,Pantano Grande
+14001,Paraí
+14027,Paraíso do Sul
+14035,Pareci Novo
+14050,Parobé
+14068,Passa Sete
+14076,Passo do Sobrado
+14100,Passo Fundo
+14134,Paulo Bento
+14159,Paverama
+14175,Pedras Altas
+14209,Pedro Osório
+14308,Pejuçara
+14407,Pelotas
+14423,Picada Café
+14456,Pinhal
+14464,Pinhal da Serra
+14472,Pinhal Grande
+14498,Pinheirinho do Vale
+14506,Pinheiro Machado
+14548,Pinto Bandeira
+14555,Pirapó
+14605,Piratini
+14704,Planalto
+14753,Poço das Antas
+14779,Pontão
+14787,Ponte Preta
+14803,Portão
+14902,Porto Alegre
+15008,Porto Lucena
+15057,Porto Mauá
+15073,Porto Vera Cruz
+15107,Porto Xavier
+15131,Pouso Novo
+15149,Presidente Lucena
+15156,Progresso
+15172,Protásio Alves
+15206,Putinga
+15305,Quaraí
+15313,Quatro Irmãos
+15321,Quevedos
+15354,Quinze de Novembro
+15404,Redentora
+15453,Relvado
+15503,Restinga Sêca
+15552,Rio dos Índios
+15602,Rio Grande
+15701,Rio Pardo
+15750,Riozinho
+15800,Roca Sales
+15909,Rodeio Bonito
+15958,Rolador
+16006,Rolante
+16105,Ronda Alta
+16204,Rondinha
+16303,Roque Gonzales
+16402,Rosário do Sul
+16428,Sagrada Família
+16436,Saldanha Marinho
+16451,Salto do Jacuí
+16477,Salvador das Missões
+16501,Salvador do Sul
+16600,Sananduva
+16709,Santa Bárbara do Sul
+16733,Santa Cecília do Sul
+16758,Santa Clara do Sul
+16808,Santa Cruz do Sul
+16972,Santa Margarida do Sul
+16907,Santa Maria
+16956,Santa Maria do Herval
+17202,Santa Rosa
+17251,Santa Tereza
+17301,Santa Vitória do Palmar
+17004,Santana da Boa Vista
+17103,Sant'Ana do Livramento
+17400,Santiago
+17509,Santo Ângelo
+17608,Santo Antônio da Patrulha
+17707,Santo Antônio das Missões
+17558,Santo Antônio do Palma
+17756,Santo Antônio do Planalto
+17806,Santo Augusto
+17905,Santo Cristo
+17954,Santo Expedito do Sul
+18002,São Borja
+18051,São Domingos do Sul
+18101,São Francisco de Assis
+18200,São Francisco de Paula
+18309,São Gabriel
+18408,São Jerônimo
+18424,São João da Urtiga
+18432,São João do Polêsine
+18440,São Jorge
+18457,São José das Missões
+18465,São José do Herval
+18481,São José do Hortêncio
+18499,São José do Inhacorá
+18507,São José do Norte
+18606,São José do Ouro
+18614,São José do Sul
+18622,São José dos Ausentes
+18705,São Leopoldo
+18804,São Lourenço do Sul
+18903,São Luiz Gonzaga
+19000,São Marcos
+19109,São Martinho
+19125,São Martinho da Serra
+19158,São Miguel das Missões
+19208,São Nicolau
+19307,São Paulo das Missões
+19356,São Pedro da Serra
+19364,São Pedro das Missões
+19372,São Pedro do Butiá
+19406,São Pedro do Sul
+19505,São Sebastião do Caí
+19604,São Sepé
+19703,São Valentim
+19711,São Valentim do Sul
+19737,São Valério do Sul
+19752,São Vendelino
+19802,São Vicente do Sul
+19901,Sapiranga
+20008,Sapucaia do Sul
+20107,Sarandi
+20206,Seberi
+20230,Sede Nova
+20263,Segredo
+20305,Selbach
+20321,Senador Salgado Filho
+20354,Sentinela do Sul
+20404,Serafina Corrêa
+20453,Sério
+20503,Sertão
+20552,Sertão Santana
+20578,Sete de Setembro
+20602,Severiano de Almeida
+20651,Silveira Martins
+20677,Sinimbu
+20701,Sobradinho
+20800,Soledade
+20859,Tabaí
+20909,Tapejara
+21006,Tapera
+21105,Tapes
+21204,Taquara
+21303,Taquari
+21329,Taquaruçu do Sul
+21352,Tavares
+21402,Tenente Portela
+21436,Terra de Areia
+21451,Teutônia
+21469,Tio Hugo
+21477,Tiradentes do Sul
+21493,Toropi
+21501,Torres
+21600,Tramandaí
+21626,Travesseiro
+21634,Três Arroios
+21667,Três Cachoeiras
+21709,Três Coroas
+21808,Três de Maio
+21832,Três Forquilhas
+21857,Três Palmeiras
+21907,Três Passos
+21956,Trindade do Sul
+22004,Triunfo
+22103,Tucunduva
+22152,Tunas
+22186,Tupanci do Sul
+22202,Tupanciretã
+22251,Tupandi
+22301,Tuparendi
+22327,Turuçu
+22343,Ubiretama
+22350,União da Serra
+22376,Unistalda
+22400,Uruguaiana
+22509,Vacaria
+22533,Vale do Sol
+22541,Vale Real
+22525,Vale Verde
+22558,Vanini
+22608,Venâncio Aires
+22707,Vera Cruz
+22806,Veranópolis
+22855,Vespasiano Corrêa
+22905,Viadutos
+23002,Viamão
+23101,Vicente Dutra
+23200,Victor Graeff
+23309,Vila Flores
+23358,Vila Lângaro
+23408,Vila Maria
+23457,Vila Nova do Sul
+23507,Vista Alegre
+23606,Vista Alegre do Prata
+23705,Vista Gaúcha
+23754,Vitória das Missões
+23770,Westfália
+23804,Xangri-lá
+203,Água Clara
+252,Alcinópolis
+609,Amambai
+708,Anastácio
+807,Anaurilândia
+856,Angélica
+906,Antônio João
+1003,Aparecida do Taboado
+1102,Aquidauana
+1243,Aral Moreira
+1508,Bandeirantes
+1904,Bataguassu
+2001,Batayporã
+2100,Bela Vista
+2159,Bodoquena
+2209,Bonito
+2308,Brasilândia
+2407,Caarapó
+2605,Camapuã
+2704,Campo Grande
+2803,Caracol
+2902,Cassilândia
+2951,Chapadão do Sul
+3108,Corguinho
+3157,Coronel Sapucaia
+3207,Corumbá
+3256,Costa Rica
+3306,Coxim
+3454,Deodápolis
+3488,Dois Irmãos do Buriti
+3504,Douradina
+3702,Dourados
+3751,Eldorado
+3801,Fátima do Sul
+3900,Figueirão
+4007,Glória de Dourados
+4106,Guia Lopes da Laguna
+4304,Iguatemi
+4403,Inocência
+4502,Itaporã
+4601,Itaquiraí
+4700,Ivinhema
+4809,Japorã
+4908,Jaraguari
+5004,Jardim
+5103,Jateí
+5152,Juti
+5202,Ladário
+5251,Laguna Carapã
+5400,Maracaju
+5608,Miranda
+5681,Mundo Novo
+5707,Naviraí
+5806,Nioaque
+6002,Nova Alvorada do Sul
+6200,Nova Andradina
+6259,Novo Horizonte do Sul
+6275,Paraíso das Águas
+6309,Paranaíba
+6358,Paranhos
+6408,Pedro Gomes
+6606,Ponta Porã
+6903,Porto Murtinho
+7109,Ribas do Rio Pardo
+7208,Rio Brilhante
+7307,Rio Negro
+7406,Rio Verde de Mato Grosso
+7505,Rochedo
+7554,Santa Rita do Pardo
+7695,São Gabriel do Oeste
+7802,Selvíria
+7703,Sete Quedas
+7901,Sidrolândia
+7935,Sonora
+7950,Tacuru
+7976,Taquarussu
+8008,Terenos
+8305,Três Lagoas
+8404,Vicentina
+102,Acorizal
+201,Água Boa
+250,Alta Floresta
+300,Alto Araguaia
+359,Alto Boa Vista
+409,Alto Garças
+508,Alto Paraguai
+607,Alto Taquari
+805,Apiacás
+1001,Araguaiana
+1209,Araguainha
+1258,Araputanga
+1308,Arenápolis
+1407,Aripuanã
+1605,Barão de Melgaço
+1704,Barra do Bugres
+1803,Barra do Garças
+1852,Bom Jesus do Araguaia
+1902,Brasnorte
+2504,Cáceres
+2603,Campinápolis
+2637,Campo Novo do Parecis
+2678,Campo Verde
+2686,Campos de Júlio
+2694,Canabrava do Norte
+2702,Canarana
+2793,Carlinda
+2850,Castanheira
+3007,Chapada dos Guimarães
+3056,Cláudia
+3106,Cocalinho
+3205,Colíder
+3254,Colniza
+3304,Comodoro
+3353,Confresa
+3361,Conquista D'Oeste
+3379,Cotriguaçu
+3403,Cuiabá
+3437,Curvelândia
+3452,Denise
+3502,Diamantino
+3601,Dom Aquino
+3700,Feliz Natal
+3809,Figueirópolis D'Oeste
+3858,Gaúcha do Norte
+3908,General Carneiro
+3957,Glória D'Oeste
+4104,Guarantã do Norte
+4203,Guiratinga
+4500,Indiavaí
+4526,Ipiranga do Norte
+4542,Itanhangá
+4559,Itaúba
+4609,Itiquira
+4807,Jaciara
+4906,Jangada
+5002,Jauru
+5101,Juara
+5150,Juína
+5176,Juruena
+5200,Juscimeira
+5234,Lambari D'Oeste
+5259,Lucas do Rio Verde
+5309,Luciara
+5580,Marcelândia
+5606,Matupá
+5622,Mirassol d'Oeste
+5903,Nobres
+6000,Nortelândia
+6109,Nossa Senhora do Livramento
+6158,Nova Bandeirantes
+6208,Nova Brasilândia
+6216,Nova Canaã do Norte
+8808,Nova Guarita
+6182,Nova Lacerda
+8857,Nova Marilândia
+8907,Nova Maringá
+8956,Nova Monte Verde
+6224,Nova Mutum
+6174,Nova Nazaré
+6232,Nova Olímpia
+6190,Nova Santa Helena
+6240,Nova Ubiratã
+6257,Nova Xavantina
+6273,Novo Horizonte do Norte
+6265,Novo Mundo
+6315,Novo Santo Antônio
+6281,Novo São Joaquim
+6299,Paranaíta
+6307,Paranatinga
+6372,Pedra Preta
+6422,Peixoto de Azevedo
+6455,Planalto da Serra
+6505,Poconé
+6653,Pontal do Araguaia
+6703,Ponte Branca
+6752,Pontes e Lacerda
+6778,Porto Alegre do Norte
+6802,Porto dos Gaúchos
+6828,Porto Esperidião
+6851,Porto Estrela
+7008,Poxoréu
+7040,Primavera do Leste
+7065,Querência
+7156,Reserva do Cabaçal
+7180,Ribeirão Cascalheira
+7198,Ribeirãozinho
+7206,Rio Branco
+7578,Rondolândia
+7602,Rondonópolis
+7701,Rosário Oeste
+7750,Salto do Céu
+7248,Santa Carmem
+7743,Santa Cruz do Xingu
+7768,Santa Rita do Trivelato
+7776,Santa Terezinha
+7263,Santo Afonso
+7800,Santo Antônio de Leverger
+7792,Santo Antônio do Leste
+7859,São Félix do Araguaia
+7297,São José do Povo
+7305,São José do Rio Claro
+7354,São José do Xingu
+7107,São José dos Quatro Marcos
+7404,São Pedro da Cipa
+7875,Sapezal
+7883,Serra Nova Dourada
+7909,Sinop
+7925,Sorriso
+7941,Tabaporã
+7958,Tangará da Serra
+8006,Tapurah
+8055,Terra Nova do Norte
+8105,Tesouro
+8204,Torixoréu
+8303,União do Sul
+8352,Vale de São Domingos
+8402,Várzea Grande
+8501,Vera
+5507,Vila Bela da Santíssima Trindade
+8600,Vila Rica
+50,Abadia de Goiás
+100,Abadiânia
+134,Acreúna
+159,Adelândia
+175,Água Fria de Goiás
+209,Água Limpa
+258,Águas Lindas de Goiás
+308,Alexânia
+506,Aloândia
+555,Alto Horizonte
+605,Alto Paraíso de Goiás
+803,Alvorada do Norte
+829,Amaralina
+852,Americano do Brasil
+902,Amorinópolis
+1108,Anápolis
+1207,Anhanguera
+1306,Anicuns
+1405,Aparecida de Goiânia
+1454,Aparecida do Rio Doce
+1504,Aporé
+1603,Araçu
+1702,Aragarças
+1801,Aragoiânia
+2155,Araguapaz
+2353,Arenópolis
+2502,Aruanã
+2601,Aurilândia
+2809,Avelinópolis
+3104,Baliza
+3203,Barro Alto
+3302,Bela Vista de Goiás
+3401,Bom Jardim de Goiás
+3500,Bom Jesus de Goiás
+3559,Bonfinópolis
+3575,Bonópolis
+3609,Brazabrantes
+3807,Britânia
+3906,Buriti Alegre
+3939,Buriti de Goiás
+3962,Buritinópolis
+4003,Cabeceiras
+4102,Cachoeira Alta
+4201,Cachoeira de Goiás
+4250,Cachoeira Dourada
+4300,Caçu
+4409,Caiapônia
+4508,Caldas Novas
+4557,Caldazinha
+4607,Campestre de Goiás
+4656,Campinaçu
+4706,Campinorte
+4805,Campo Alegre de Goiás
+4854,Campo Limpo de Goiás
+4904,Campos Belos
+4953,Campos Verdes
+5000,Carmo do Rio Verde
+5059,Castelândia
+5109,Catalão
+5208,Caturaí
+5307,Cavalcante
+5406,Ceres
+5455,Cezarina
+5471,Chapadão do Céu
+5497,Cidade Ocidental
+5513,Cocalzinho de Goiás
+5521,Colinas do Sul
+5703,Córrego do Ouro
+5802,Corumbá de Goiás
+5901,Corumbaíba
+6206,Cristalina
+6305,Cristianópolis
+6404,Crixás
+6503,Cromínia
+6602,Cumari
+6701,Damianópolis
+6800,Damolândia
+6909,Davinópolis
+7105,Diorama
+8301,Divinópolis de Goiás
+7253,Doverlândia
+7352,Edealina
+7402,Edéia
+7501,Estrela do Norte
+7535,Faina
+7600,Fazenda Nova
+7808,Firminópolis
+7907,Flores de Goiás
+8004,Formosa
+8103,Formoso
+8152,Gameleira de Goiás
+8400,Goianápolis
+8509,Goiandira
+8608,Goianésia
+8707,Goiânia
+8806,Goianira
+8905,Goiás
+9101,Goiatuba
+9150,Gouvelândia
+9200,Guapó
+9291,Guaraíta
+9408,Guarani de Goiás
+9457,Guarinos
+9606,Heitoraí
+9705,Hidrolândia
+9804,Hidrolina
+9903,Iaciara
+9937,Inaciolândia
+9952,Indiara
+10000,Inhumas
+10109,Ipameri
+10158,Ipiranga de Goiás
+10208,Iporá
+10307,Israelândia
+10406,Itaberaí
+10562,Itaguari
+10604,Itaguaru
+10802,Itajá
+10901,Itapaci
+11008,Itapirapuã
+11206,Itapuranga
+11305,Itarumã
+11404,Itauçu
+11503,Itumbiara
+11602,Ivolândia
+11701,Jandaia
+11800,Jaraguá
+11909,Jataí
+12006,Jaupaci
+12055,Jesúpolis
+12105,Joviânia
+12204,Jussara
+12253,Lagoa Santa
+12303,Leopoldo de Bulhões
+12501,Luziânia
+12600,Mairipotaba
+12709,Mambaí
+12808,Mara Rosa
+12907,Marzagão
+12956,Matrinchã
+13004,Maurilândia
+13053,Mimoso de Goiás
+13087,Minaçu
+13103,Mineiros
+13400,Moiporá
+13509,Monte Alegre de Goiás
+13707,Montes Claros de Goiás
+13756,Montividiu
+13772,Montividiu do Norte
+13806,Morrinhos
+13855,Morro Agudo de Goiás
+13905,Mossâmedes
+14002,Mozarlândia
+14051,Mundo Novo
+14101,Mutunópolis
+14408,Nazário
+14507,Nerópolis
+14606,Niquelândia
+14705,Nova América
+14804,Nova Aurora
+14838,Nova Crixás
+14861,Nova Glória
+14879,Nova Iguaçu de Goiás
+14903,Nova Roma
+15009,Nova Veneza
+15207,Novo Brasil
+15231,Novo Gama
+15256,Novo Planalto
+15306,Orizona
+15405,Ouro Verde de Goiás
+15504,Ouvidor
+15603,Padre Bernardo
+15652,Palestina de Goiás
+15702,Palmeiras de Goiás
+15801,Palmelo
+15900,Palminópolis
+16007,Panamá
+16304,Paranaiguara
+16403,Paraúna
+16452,Perolândia
+16809,Petrolina de Goiás
+16908,Pilar de Goiás
+17104,Piracanjuba
+17203,Piranhas
+17302,Pirenópolis
+17401,Pires do Rio
+17609,Planaltina
+17708,Pontalina
+18003,Porangatu
+18052,Porteirão
+18102,Portelândia
+18300,Posse
+18391,Professor Jamil
+18508,Quirinópolis
+18607,Rialma
+18706,Rianápolis
+18789,Rio Quente
+18805,Rio Verde
+18904,Rubiataba
+19001,Sanclerlândia
+19100,Santa Bárbara de Goiás
+19209,Santa Cruz de Goiás
+19258,Santa Fé de Goiás
+19308,Santa Helena de Goiás
+19357,Santa Isabel
+19407,Santa Rita do Araguaia
+19456,Santa Rita do Novo Destino
+19506,Santa Rosa de Goiás
+19605,Santa Tereza de Goiás
+19704,Santa Terezinha de Goiás
+19712,Santo Antônio da Barra
+19738,Santo Antônio de Goiás
+19753,Santo Antônio do Descoberto
+19803,São Domingos
+19902,São Francisco de Goiás
+20058,São João da Paraúna
+20009,São João d'Aliança
+20108,São Luís de Montes Belos
+20157,São Luiz do Norte
+20207,São Miguel do Araguaia
+20264,São Miguel do Passa Quatro
+20280,São Patrício
+20405,São Simão
+20454,Senador Canedo
+20504,Serranópolis
+20603,Silvânia
+20686,Simolândia
+20702,Sítio d'Abadia
+21007,Taquaral de Goiás
+21080,Teresina de Goiás
+21197,Terezópolis de Goiás
+21304,Três Ranchos
+21403,Trindade
+21452,Trombas
+21502,Turvânia
+21551,Turvelândia
+21577,Uirapuru
+21601,Uruaçu
+21700,Uruana
+21809,Urutaí
+21858,Valparaíso de Goiás
+21908,Varjão
+22005,Vianópolis
+22054,Vicentinópolis
+22203,Vila Boa
+22302,Vila Propício
+108,Brasília
